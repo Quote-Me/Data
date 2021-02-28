@@ -1,0 +1,5002 @@
+[
+    {
+        "quote": "Why do grandparents and grandchildren get along so well? The mother.",
+        "author": "Claudette Colbert",
+        "genre": "mom"
+    },
+    {
+        "quote": "Patriotism must be founded on great principals and supported by great virtue.",
+        "author": "Henry Bolingbroke",
+        "genre": "patriotism"
+    },
+    {
+        "quote": "I've always said that an art critic can put aside politics around art.",
+        "author": "Jerry Saltz",
+        "genre": "art"
+    },
+    {
+        "quote": "Usually I do everything reverse. I practice something in movies and then I try it in real life.",
+        "author": "John Cusack",
+        "genre": "movies"
+    },
+    {
+        "quote": "When a man has no reason to trust himself, he trusts in luck.",
+        "author": "E. W. Howe",
+        "genre": "trust"
+    },
+    {
+        "quote": "Forgive, son men are men they needs must err.",
+        "author": "Euripides",
+        "genre": "men"
+    },
+    {
+        "quote": "A great social success is a pretty girl who plays her cards as carefully as if she were plain.",
+        "author": "F. Scott Fitzgerald",
+        "genre": "great"
+    },
+    {
+        "quote": "Disbelief in magic can force a poor soul into believing in government and business.",
+        "author": "Tom Robbins",
+        "genre": "government"
+    },
+    {
+        "quote": "Treat a work of art like a prince. Let it speak to you first.",
+        "author": "Arthur Schopenhauer",
+        "genre": "work"
+    },
+    {
+        "quote": "In my dreams I hear again the crash of guns, the rattle of musketry, the strange, mournful mutter of the battlefield.",
+        "author": "Douglas MacArthur",
+        "genre": "dreams"
+    },
+    {
+        "quote": "Instinct is intelligence incapable of self-consciousness.",
+        "author": "John Sterling",
+        "genre": "intelligence"
+    },
+    {
+        "quote": "Things can be funny only when we are in fun. When we're 'dead earnest,' humor is the only thing that is dead.",
+        "author": "Flip Wilson",
+        "genre": "funny"
+    },
+    {
+        "quote": "A library implies an act of faith.",
+        "author": "Victor Hugo",
+        "genre": "faith"
+    },
+    {
+        "quote": "The really frightening thing about middle age is the knowledge that you'll grow out of it.",
+        "author": "Doris Day",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "If there was no Black Sabbath, I could still possibly be a morning newspaper delivery boy. No fun.",
+        "author": "Lars Ulrich",
+        "genre": "morning"
+    },
+    {
+        "quote": "Happiness lies in the joy of achievement and the thrill of creative effort.",
+        "author": "Franklin D. Roosevelt",
+        "genre": "happiness"
+    },
+    {
+        "quote": "Power in defense of freedom is greater than power in behalf of tyranny and oppression.",
+        "author": "Malcolm X",
+        "genre": "freedom"
+    },
+    {
+        "quote": "I'm always going to live in Texas. Texas is my home - it'll be my home forever.",
+        "author": "Kelly Clarkson",
+        "genre": "home"
+    },
+    {
+        "quote": "Money is a strange business. People who haven't got it aim it strongly. People who have are full of troubles.",
+        "author": "Ayrton Senna",
+        "genre": "money"
+    },
+    {
+        "quote": "It's funny, but you get to a time in your life when you think you have all the friends you will ever have.",
+        "author": "Liam Neeson",
+        "genre": "funny"
+    },
+    {
+        "quote": "Rap is poetry to music, like beatniks without beards and bongos.",
+        "author": "David Lee Roth",
+        "genre": "poetry"
+    },
+    {
+        "quote": "Adolescence isn't just about prom or wearing sparkly dresses.",
+        "author": "Jena Malone",
+        "genre": "teen"
+    },
+    {
+        "quote": "You can judge your age by the amount of pain you feel when you come in contact with a new idea.",
+        "author": "Pearl S. Buck",
+        "genre": "age"
+    },
+    {
+        "quote": "I love all men who think, even those who think otherwise than myself.",
+        "author": "Victor Hugo",
+        "genre": "men"
+    },
+    {
+        "quote": "Kids coming back from Iraq and Afghanistan deserve to come back to 21st century medical care.",
+        "author": "Anthony Principi",
+        "genre": "medical"
+    },
+    {
+        "quote": "I've always been interested in gadgets and technology and I've always been a reader.",
+        "author": "LeVar Burton",
+        "genre": "technology"
+    },
+    {
+        "quote": "The thing that's changed the most has just been the rapid technology.",
+        "author": "Jeffrey Katzenberg",
+        "genre": "technology"
+    },
+    {
+        "quote": "Lord, where we are wrong, make us willing to change where we are right, make us easy to live with.",
+        "author": "Peter Marshall",
+        "genre": "change"
+    },
+    {
+        "quote": "I think women want to take care of themselves, and I think having a voice in how that is done is very important.",
+        "author": "Madeleine Albright",
+        "genre": "women"
+    },
+    {
+        "quote": "That's when it really came together for me that I was in a Bond film, to have my own spy car!",
+        "author": "Rick Yune",
+        "genre": "car"
+    },
+    {
+        "quote": "I did not just fall in love. I made a parachute jump.",
+        "author": "Zora Neale Hurston",
+        "genre": "love"
+    },
+    {
+        "quote": "All German women are beautiful.",
+        "author": "Heidi Klum",
+        "genre": "women"
+    },
+    {
+        "quote": "Before machines the only form of entertainment people really had was relationships.",
+        "author": "Doug Coupland",
+        "genre": "relationship"
+    },
+    {
+        "quote": "Eighty percent of success is showing up.",
+        "author": "Woody Allen",
+        "genre": "success"
+    },
+    {
+        "quote": "Magic becomes art when it has nothing to hide.",
+        "author": "Ben Okri",
+        "genre": "art"
+    },
+    {
+        "quote": "Britain's great strength is its innovative, design and engineering natural ability and we're not using it.",
+        "author": "James Dyson",
+        "genre": "strength"
+    },
+    {
+        "quote": "If I don't get paid I'm going to take a whole lot of Marshall amps home with me on the plane.",
+        "author": "Tommy Chong",
+        "genre": "home"
+    },
+    {
+        "quote": "Things are done according to money these days.",
+        "author": "Shirley MacLaine",
+        "genre": "money"
+    },
+    {
+        "quote": "Las Vegas is a very strange place. It's a place of broken dreams.",
+        "author": "Concha Buika",
+        "genre": "dreams"
+    },
+    {
+        "quote": "I have no wisdom to share on dating.",
+        "author": "Rachel Dratch",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "There's no evidence whatsoever that men are more rational than women. Both sexes seem to be equally irrational.",
+        "author": "Albert Ellis",
+        "genre": "men"
+    },
+    {
+        "quote": "Americans love to fight. All real Americans love the sting of battle.",
+        "author": "George S. Patton",
+        "genre": "love"
+    },
+    {
+        "quote": "The best things in life are unexpected - because there were no expectations.",
+        "author": "Eli Khamarov",
+        "genre": "best"
+    },
+    {
+        "quote": "I feel good because I believe I have made progress in rebuilding the people's trust in their government.",
+        "author": "Arnold Schwarzenegger",
+        "genre": "government"
+    },
+    {
+        "quote": "If it's inappropriate to write about, if there's nothing funny about it, then it's not funny.",
+        "author": "Calvin Trillin",
+        "genre": "funny"
+    },
+    {
+        "quote": "I swear I want to be a food model.",
+        "author": "Amy Sedaris",
+        "genre": "food"
+    },
+    {
+        "quote": "There is nothing I love as much as a good fight.",
+        "author": "Franklin D. Roosevelt",
+        "genre": "good"
+    },
+    {
+        "quote": "I stopped loving my father a long time ago. What remained was the slavery to a pattern.",
+        "author": "Anais Nin",
+        "genre": "time"
+    },
+    {
+        "quote": "I wouldn't call myself a feminist, because I think there are differences between men and women.",
+        "author": "Shania Twain",
+        "genre": "women"
+    },
+    {
+        "quote": "When you try to predict future E.R.A.'s with past E.R.A.'s, you're making a mistake.",
+        "author": "Nate Silver",
+        "genre": "future"
+    },
+    {
+        "quote": "I like movies I can relate to.",
+        "author": "Kim Cattrall",
+        "genre": "movies"
+    },
+    {
+        "quote": "It was dog food. Beef livers with onions in a can. You open it up and it looks like vomit.",
+        "author": "Tom Sizemore",
+        "genre": "food"
+    },
+    {
+        "quote": "Education doesn't change life much. It just lifts trouble to a higher plane of regard.",
+        "author": "Robert Frost",
+        "genre": "life"
+    },
+    {
+        "quote": "One of the first conditions of happiness is that the link between Man and Nature shall not be broken.",
+        "author": "Leo Tolstoy",
+        "genre": "happiness"
+    },
+    {
+        "quote": "The Bush-Cheney administration had betrayed some basic American values. So there was hunger for change.",
+        "author": "Al Gore",
+        "genre": "change"
+    },
+    {
+        "quote": "I think America has more than enough maturity and intelligence to start exercising its world leadership responsibly.",
+        "author": "Cristina Kirchner",
+        "genre": "leadership"
+    },
+    {
+        "quote": "To die for a religion is easier than to live it absolutely.",
+        "author": "Jorge Luis Borges",
+        "genre": "religion"
+    },
+    {
+        "quote": "I guess we all like to be recognized not for one piece of fireworks, but for the ledger of our daily work.",
+        "author": "Neil Armstrong",
+        "genre": "work"
+    },
+    {
+        "quote": "You cannot run a business, or anything else, on a theory.",
+        "author": "Harold S. Geneen",
+        "genre": "business"
+    },
+    {
+        "quote": "I have a new philosophy. I'm only going to dread one day at a time.",
+        "author": "Charles M. Schulz",
+        "genre": "time"
+    },
+    {
+        "quote": "So long as war is the main business of nations, temporary despotism - despotism during the campaign - is indispensable.",
+        "author": "Walter Bagehot",
+        "genre": "war"
+    },
+    {
+        "quote": "Good leadership consists of showing average people how to do the work of superior people.",
+        "author": "John D. Rockefeller",
+        "genre": "leadership"
+    },
+    {
+        "quote": "The thing about death is that it's honest.",
+        "author": "Laura Linney",
+        "genre": "death"
+    },
+    {
+        "quote": "If we marry educational technology with quality, enriching content, that's a circle of win.",
+        "author": "LeVar Burton",
+        "genre": "technology"
+    },
+    {
+        "quote": "Cross country skiing is great if you live in a small country.",
+        "author": "Steven Wright",
+        "genre": "funny"
+    },
+    {
+        "quote": "I believe we are on an irreversible trend toward more freedom and democracy - but that could change.",
+        "author": "Dan Quayle",
+        "genre": "change"
+    },
+    {
+        "quote": "No country can act wisely simultaneously in every part of the globe at every moment of time.",
+        "author": "Henry A. Kissinger",
+        "genre": "war"
+    },
+    {
+        "quote": "Music - that's been my education. There's not a day that goes by that I take it for granted.",
+        "author": "Billie Joe Armstrong",
+        "genre": "education"
+    },
+    {
+        "quote": "I do believe that if you haven't learnt about sadness, you cannot appreciate happiness.",
+        "author": "Nana Mouskouri",
+        "genre": "happiness"
+    },
+    {
+        "quote": "Our modern society - especially in the West, and especially now - reveres youth.",
+        "author": "Clint Eastwood",
+        "genre": "society"
+    },
+    {
+        "quote": "War is only a cowardly escape from the problems of peace.",
+        "author": "Thomas Mann",
+        "genre": "peace"
+    },
+    {
+        "quote": "We learned that economic growth and environmental protection can and should go hand in hand.",
+        "author": "Christopher Dodd",
+        "genre": "environmental"
+    },
+    {
+        "quote": "Knowledge fills a large brain it merely inflates a small one.",
+        "author": "Sydney J. Harris",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "Love is the poetry of the senses.",
+        "author": "Honore de Balzac",
+        "genre": "love"
+    },
+    {
+        "quote": "Nothing matters but the facts. Without them, the science of criminal investigation is nothing more than a guessing game.",
+        "author": "Blake Edwards",
+        "genre": "science"
+    },
+    {
+        "quote": "Leadership is the art of getting someone else to do something you want done because he wants to do it.",
+        "author": "Dwight D. Eisenhower",
+        "genre": "art"
+    },
+    {
+        "quote": "There is no force more liberating than the knowledge that you are fighting for others.",
+        "author": "Bob Kerrey",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "I define fear as standing across the ring from Joe Louis and knowing he wants to go home early.",
+        "author": "Max Baer",
+        "genre": "fear"
+    },
+    {
+        "quote": "Victims always feel alone and helpless.",
+        "author": "Deepak Chopra",
+        "genre": "alone"
+    },
+    {
+        "quote": "Wisdom is the power to put our time and our knowledge to the proper use.",
+        "author": "Thomas J. Watson",
+        "genre": "power"
+    },
+    {
+        "quote": "Until he extends his circle of compassion to include all living things, man will not himself find peace.",
+        "author": "Albert Schweitzer",
+        "genre": "peace"
+    },
+    {
+        "quote": "My biggest failure is I have too many to talk about.",
+        "author": "Dean Kamen",
+        "genre": "failure"
+    },
+    {
+        "quote": "Certainly tolerance and acceptance were at the forefront of my music.",
+        "author": "Bruce Springsteen",
+        "genre": "music"
+    },
+    {
+        "quote": "Man wants to live, but it is useless to hope that this desire will dictate all his actions.",
+        "author": "Albert Camus",
+        "genre": "hope"
+    },
+    {
+        "quote": "I have the simplest tastes. I am always satisfied with the best.",
+        "author": "Oscar Wilde",
+        "genre": "best"
+    },
+    {
+        "quote": "Education is what remains after one has forgotten what one has learned in school.",
+        "author": "Albert Einstein",
+        "genre": "education"
+    },
+    {
+        "quote": "My message is that God is a good God.",
+        "author": "Joel Osteen",
+        "genre": "god"
+    },
+    {
+        "quote": "We cannot change anything until we accept it. Condemnation does not liberate, it oppresses.",
+        "author": "Carl Jung",
+        "genre": "change"
+    },
+    {
+        "quote": "We may seem great in an employment below our worth, but we very often look little in one that is too big for us.",
+        "author": "Francois de La Rochefoucauld",
+        "genre": "great"
+    },
+    {
+        "quote": "As a general thing, when a woman wears the pants in a family, she has a good right to them.",
+        "author": "Josh Billings",
+        "genre": "family"
+    },
+    {
+        "quote": "I don't like Bush. I don't trust him. I don't like his record. He's stupid. He's lazy.",
+        "author": "Cher",
+        "genre": "trust"
+    },
+    {
+        "quote": "They teach you there's a boundary line to music. But, man, there's no boundary line to art.",
+        "author": "Charlie Parker",
+        "genre": "music"
+    },
+    {
+        "quote": "True human goodness, in all its purity and freedom, can come to the fore only when its recipient has no power.",
+        "author": "Milan Kundera",
+        "genre": "power"
+    },
+    {
+        "quote": "For changes to be of any true value, they've got to be lasting and consistent.",
+        "author": "Tony Robbins",
+        "genre": "change"
+    },
+    {
+        "quote": "In hindsight it may even seem inevitable that a socialist society will starve when it runs out of capitalists.",
+        "author": "Larry Niven",
+        "genre": "society"
+    },
+    {
+        "quote": "If you smile when no one else is around, you really mean it.",
+        "author": "Andy Rooney",
+        "genre": "smile"
+    },
+    {
+        "quote": "The fear of death often proves mortal, and sets people on methods to save their Lives, which infallibly destroy them.",
+        "author": "Joseph Addison",
+        "genre": "death"
+    },
+    {
+        "quote": "We must ensure our system of higher education offers world-class quality for a world-class economy.",
+        "author": "Bob Taft",
+        "genre": "education"
+    },
+    {
+        "quote": "Financially, I've lost money and made money, but I know my way around financially.",
+        "author": "Jack Nicholson",
+        "genre": "money"
+    },
+    {
+        "quote": "I trust no one, not even myself.",
+        "author": "Joseph Stalin",
+        "genre": "trust"
+    },
+    {
+        "quote": "A good man would prefer to be defeated than to defeat injustice by evil means.",
+        "author": "Sallust",
+        "genre": "good"
+    },
+    {
+        "quote": "Here in Hollywood you can actually get a marriage license printed on an Etch-A-Sketch.",
+        "author": "Dennis Miller",
+        "genre": "funny"
+    },
+    {
+        "quote": "Only the elites despise earning money.",
+        "author": "Newt Gingrich",
+        "genre": "money"
+    },
+    {
+        "quote": "My father wasn't really involved and my mom is the light in my life.",
+        "author": "Marion Jones",
+        "genre": "parenting"
+    },
+    {
+        "quote": "I said to the almond tree, 'Friend, speak to me of God,' and the almond tree blossomed.",
+        "author": "Nikos Kazantzakis",
+        "genre": "god"
+    },
+    {
+        "quote": "Love is the hardest habit to break, and the most difficult to satisfy.",
+        "author": "Drew Barrymore",
+        "genre": "love"
+    },
+    {
+        "quote": "Politics, as a practise, whatever its professions, has always been the systematic organization of hatreds.",
+        "author": "Henry Adams",
+        "genre": "politics"
+    },
+    {
+        "quote": "The rare few, who, early in life have rid themselves of the friendship of the many.",
+        "author": "James Whistler",
+        "genre": "friendship"
+    },
+    {
+        "quote": "Because of the president's leadership, every American will have access to affordable, quality health care.",
+        "author": "Rahm Emanuel",
+        "genre": "leadership"
+    },
+    {
+        "quote": "What does the future, that half of time, matter to the man who is infatuated with eternity?",
+        "author": "Emile M. Cioran",
+        "genre": "future"
+    },
+    {
+        "quote": "Traveling is seeing it is the implicit that we travel by.",
+        "author": "Cynthia Ozick",
+        "genre": "travel"
+    },
+    {
+        "quote": "We are made wise not by the recollection of our past, but by the responsibility for our future.",
+        "author": "George Bernard Shaw",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "Success is not in never failing, but rising everytime you fall!",
+        "author": "Jonathan Taylor Thomas",
+        "genre": "success"
+    },
+    {
+        "quote": "Cut quarrels out of literature, and you will have very little history or drama or fiction or epic poetry left.",
+        "author": "Robert Staughton Lynd",
+        "genre": "poetry"
+    },
+    {
+        "quote": "Wisdom begins at the end.",
+        "author": "Daniel Webster",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "They talk about the failure of socialism but where is the success of capitalism in Africa, Asia and Latin America?",
+        "author": "Fidel Castro",
+        "genre": "failure"
+    },
+    {
+        "quote": "I want to own an NFL franchise. I understand the business of football.",
+        "author": "Jon Bon Jovi",
+        "genre": "business"
+    },
+    {
+        "quote": "My mom was amazing. She believed in me and we were best friends.",
+        "author": "Carmen Electra",
+        "genre": "amazing"
+    },
+    {
+        "quote": "I'm not a tough guy. I'm just delivering the truth and only the truth and if you can't deal with it, too bad.",
+        "author": "Kevin O'Leary",
+        "genre": "truth"
+    },
+    {
+        "quote": "Life finds its purpose and fulfillment in the expansion of happiness.",
+        "author": "Maharishi Mahesh Yogi",
+        "genre": "happiness"
+    },
+    {
+        "quote": "That's the nature of women, not to love when we love them, and to love when we love them not.",
+        "author": "Miguel de Cervantes",
+        "genre": "women"
+    },
+    {
+        "quote": "Like I said, I'm more worried long term about the environmental issues then the use of arms.",
+        "author": "Hans Blix",
+        "genre": "environmental"
+    },
+    {
+        "quote": "It is the mission of the next Conservative Government to build the Responsible Society.",
+        "author": "William Hague",
+        "genre": "society"
+    },
+    {
+        "quote": "Show me a guy who's afraid to look bad, and I'll show you a guy you can beat every time.",
+        "author": "Lou Brock",
+        "genre": "fear"
+    },
+    {
+        "quote": "Limit to courage? There is no limit to courage.",
+        "author": "Gabriele D'Annunzio",
+        "genre": "courage"
+    },
+    {
+        "quote": "If you suffer, thank God! It is a sure sign that you are alive.",
+        "author": "Elbert Hubbard",
+        "genre": "god"
+    },
+    {
+        "quote": "What is more mortifying than to feel that you have missed the plum for want of courage to shake the tree?",
+        "author": "Logan P. Smith",
+        "genre": "courage"
+    },
+    {
+        "quote": "The greatest enemy of individual freedom is the individual himself.",
+        "author": "Saul Alinsky",
+        "genre": "freedom"
+    },
+    {
+        "quote": "Religion in its humility restores man to his only dignity, the courage to live by grace.",
+        "author": "George Santayana",
+        "genre": "religion"
+    },
+    {
+        "quote": "Beauty is not just physical.",
+        "author": "Halle Berry",
+        "genre": "beauty"
+    },
+    {
+        "quote": "As the family goes, so goes the nation and so goes the whole world in which we live.",
+        "author": "Pope John Paul II",
+        "genre": "family"
+    },
+    {
+        "quote": "The true sign of intelligence is not knowledge but imagination.",
+        "author": "Albert Einstein",
+        "genre": "imagination"
+    },
+    {
+        "quote": "To err is human to forgive, divine.",
+        "author": "Alexander Pope",
+        "genre": "forgiveness"
+    },
+    {
+        "quote": "I like to listen. I have learned a great deal from listening carefully. Most people never listen.",
+        "author": "Ernest Hemingway",
+        "genre": "great"
+    },
+    {
+        "quote": "I've seen the ticket, and I still can't believe it. When I see the money, I hope I don't hit the floor.",
+        "author": "Judy Garland",
+        "genre": "hope"
+    },
+    {
+        "quote": "My second grade teacher told me I would never graduate high school. That I was going to be a juvenile delinquent.",
+        "author": "Miles Teller",
+        "genre": "teacher"
+    },
+    {
+        "quote": "It never seems to occur to some people, that, like beauty, a sense of humor may sometimes be fatal.",
+        "author": "Edgar Rice Burroghs",
+        "genre": "beauty"
+    },
+    {
+        "quote": "He who has health, has hope and he who has hope, has everything.",
+        "author": "Thomas Carlyle",
+        "genre": "health"
+    },
+    {
+        "quote": "I'm in a business where no one cares about anything except how well your last collection sold.",
+        "author": "Calvin Klein",
+        "genre": "business"
+    },
+    {
+        "quote": "Support by United States rulers is rather in the nature of the support that the rope gives to a hanged man.",
+        "author": "Nikita Khrushchev",
+        "genre": "nature"
+    },
+    {
+        "quote": "The true measure of the value of any business leader and manager is performance.",
+        "author": "Brian Tracy",
+        "genre": "business"
+    },
+    {
+        "quote": "We fear the thing we want the most.",
+        "author": "Robert Anthony",
+        "genre": "fear"
+    },
+    {
+        "quote": "Money is the string with which a sardonic destiny directs the motions of its puppets.",
+        "author": "W. Somerset Maugham",
+        "genre": "money"
+    },
+    {
+        "quote": "Motherhood is at its best when the tender chords of sympathy have been touched.",
+        "author": "Paul Harris",
+        "genre": "mom"
+    },
+    {
+        "quote": "Believers, look up - take courage. The angels are nearer than you think.",
+        "author": "Billy Graham",
+        "genre": "faith"
+    },
+    {
+        "quote": "They talk about the failure of socialism but where is the success of capitalism in Africa, Asia and Latin America?",
+        "author": "Fidel Castro",
+        "genre": "failure"
+    },
+    {
+        "quote": "In science the important thing is to modify and change one's ideas as science advances.",
+        "author": "Herbert Spencer",
+        "genre": "science"
+    },
+    {
+        "quote": "Losers live in the past. Winners learn from the past and enjoy working in the present toward the future.",
+        "author": "Denis Waitley",
+        "genre": "learning"
+    },
+    {
+        "quote": "People dance at any age.",
+        "author": "Mikhail Baryshnikov",
+        "genre": "age"
+    },
+    {
+        "quote": "If somebody invented cigarettes today, the government would not legalize them.",
+        "author": "Loni Anderson",
+        "genre": "government"
+    },
+    {
+        "quote": "People assume that all artists make for terrible business people, but I'm in complete charge of my own career.",
+        "author": "Tori Amos",
+        "genre": "business"
+    },
+    {
+        "quote": "But I wanted marriage for myself. I was not calculating about it. I wish I was more calculating.",
+        "author": "Linda McCartney",
+        "genre": "marriage"
+    },
+    {
+        "quote": "I may be a living legend, but that sure don't help when I've got to change a flat tire.",
+        "author": "Roy Orbison",
+        "genre": "funny"
+    },
+    {
+        "quote": "It is impossible to experience one's death objectively and still carry a tune.",
+        "author": "Woody Allen",
+        "genre": "death"
+    },
+    {
+        "quote": "When I moved out of my mom's house at 18 I was almost as sad to leave her sewing machine behind as anything else.",
+        "author": "Beth Ditto",
+        "genre": "mom"
+    },
+    {
+        "quote": "You may not be able to read a doctor's handwriting and prescription, but you'll notice his bills are neatly typewritten.",
+        "author": "Earl Wilson",
+        "genre": "medical"
+    },
+    {
+        "quote": "Freedom is what you do with what's been done to you.",
+        "author": "Jean-Paul Sartre",
+        "genre": "freedom"
+    },
+    {
+        "quote": "Certainly going back to Sherlock Holmes we have a tradition of forensic science featured in detective stories.",
+        "author": "Jeffery Deaver",
+        "genre": "science"
+    },
+    {
+        "quote": "The key to immortality is first living a life worth remembering.",
+        "author": "Bruce Lee",
+        "genre": "life"
+    },
+    {
+        "quote": "Many of us crucify ourselves between two thieves - regret for the past and fear of the future.",
+        "author": "Fulton Oursler",
+        "genre": "fear"
+    },
+    {
+        "quote": "Power corrupts, and absolute power corrupts absolutely.",
+        "author": "Lord Acton",
+        "genre": "power"
+    },
+    {
+        "quote": "Europe was created by history. America was created by philosophy.",
+        "author": "Margaret Thatcher",
+        "genre": "history"
+    },
+    {
+        "quote": "Rank does not confer privilege or give power. It imposes responsibility.",
+        "author": "Peter Drucker",
+        "genre": "power"
+    },
+    {
+        "quote": "Be not simply good - be good for something.",
+        "author": "Henry David Thoreau",
+        "genre": "good"
+    },
+    {
+        "quote": "I am an aristocrat. I love liberty I hate equality.",
+        "author": "John Randolph",
+        "genre": "equality"
+    },
+    {
+        "quote": "Most of my life I have played a lot of famous people but most of them were dead so you have a poetic license.",
+        "author": "Christopher Plummer",
+        "genre": "famous"
+    },
+    {
+        "quote": "I honestly think it is better to be a failure at something you love than to be a success at something you hate.",
+        "author": "George Burns",
+        "genre": "love"
+    },
+    {
+        "quote": "I think superheroes are heroes with flaws, and in their flaws, there is a sense of humor.",
+        "author": "Peter Segal",
+        "genre": "humor"
+    },
+    {
+        "quote": "Work is the price which is paid for reputation.",
+        "author": "Baltasar Gracian",
+        "genre": "work"
+    },
+    {
+        "quote": "The great rule of moral conduct is next to God, respect time.",
+        "author": "Johann Kaspar Lavater",
+        "genre": "respect"
+    },
+    {
+        "quote": "It seems like a lot of music today is so churned out and simple.",
+        "author": "Jonathan Davis",
+        "genre": "music"
+    },
+    {
+        "quote": "Money may not buy happiness, but it can damn well give it!",
+        "author": "Freddie Mercury",
+        "genre": "happiness"
+    },
+    {
+        "quote": "Heavy hearts, like heavy clouds in the sky, are best relieved by the letting of a little water.",
+        "author": "Christopher Morley",
+        "genre": "best"
+    },
+    {
+        "quote": "Heresies are experiments in man's unsatisfied search for truth.",
+        "author": "H. G. Wells",
+        "genre": "truth"
+    },
+    {
+        "quote": "I have no agenda except to be funny. Neither I or the writers profess to offer any worldly wisdom.",
+        "author": "Julia Louis-Dreyfus",
+        "genre": "funny"
+    },
+    {
+        "quote": "Free imagination is the inestimable prerogative of youth and it must be cherished and guarded as a treasure.",
+        "author": "Felix Bloch",
+        "genre": "imagination"
+    },
+    {
+        "quote": "The human body is the best picture of the human soul.",
+        "author": "Ludwig Wittgenstein",
+        "genre": "best"
+    },
+    {
+        "quote": "Recommend virtue to your children it alone, not money, can make them happy. I speak from experience.",
+        "author": "Ludwig van Beethoven",
+        "genre": "money"
+    },
+    {
+        "quote": "I must be more sensible and realize that at my age, illusions are hardly permitted and they will always destroy me.",
+        "author": "Paul Cezanne",
+        "genre": "age"
+    },
+    {
+        "quote": "Those who do not remember the past are condemned to repeat it.",
+        "author": "George Santayana",
+        "genre": "history"
+    },
+    {
+        "quote": "A nation is a society united by a delusion about its ancestry and by common hatred of its neighbours.",
+        "author": "William Ralph Inge",
+        "genre": "society"
+    },
+    {
+        "quote": "There has never been an unexpectedly short debugging period in the history of computers.",
+        "author": "Steven Levy",
+        "genre": "computers"
+    },
+    {
+        "quote": "We are not inferring design to account for a black box, but to account for an open box.",
+        "author": "Michael Behe",
+        "genre": "design"
+    },
+    {
+        "quote": "Religion is not going to come up with any new arguments.",
+        "author": "Christopher Hitchens",
+        "genre": "religion"
+    },
+    {
+        "quote": "I was surrounded by strong women so it had never even occurred to me that women were anything other than equal to men.",
+        "author": "David Bailey",
+        "genre": "women"
+    },
+    {
+        "quote": "Wisdom is not attained by years, but by ability.",
+        "author": "Plautus",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "Nowadays nothing but money counts: a fortune brings honors, friendships the poor man everywhere lies low.",
+        "author": "Ovid",
+        "genre": "money"
+    },
+    {
+        "quote": "Knowledge is ancient error reflecting on its youth.",
+        "author": "Francis Picabia",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "We must all make peace so that we can all live in peace.",
+        "author": "Jean-Bertrand Aristide",
+        "genre": "peace"
+    },
+    {
+        "quote": "Govern a great nation as you would cook a small fish. Do not overdo it.",
+        "author": "Lao Tzu",
+        "genre": "great"
+    },
+    {
+        "quote": "The battle for women's rights has been largely won.",
+        "author": "Margaret Thatcher",
+        "genre": "equality"
+    },
+    {
+        "quote": "You do not travel if you are afraid of the unknown, you travel for the unknown, that reveals you with yourself.",
+        "author": "Ella Maillart",
+        "genre": "travel"
+    },
+    {
+        "quote": "Respect is what we owe love, what we give.",
+        "author": "Philip James Bailey",
+        "genre": "respect"
+    },
+    {
+        "quote": "There is something about inside information which seems to paralyse a man's reasoning powers.",
+        "author": "Bernard Baruch",
+        "genre": "power"
+    },
+    {
+        "quote": "I don't think we should be about the business of denying voters in Michigan and Florida the right to be heard.",
+        "author": "Hillary Clinton",
+        "genre": "business"
+    },
+    {
+        "quote": "Indy car racing is much more aggressive.",
+        "author": "Emerson Fittipaldi",
+        "genre": "car"
+    },
+    {
+        "quote": "In this world, full often, our joys are only the tender shadows which our sorrows cast.",
+        "author": "Henry Ward Beecher",
+        "genre": "sad"
+    },
+    {
+        "quote": "Faith is not contrary to reason.",
+        "author": "Sherwood Eddy",
+        "genre": "faith"
+    },
+    {
+        "quote": "A Church which has lost its memory is in a sad state of senility.",
+        "author": "Henry Chadwick",
+        "genre": "sad"
+    },
+    {
+        "quote": "It is a very sad thing that nowadays there is so little useless information.",
+        "author": "Oscar Wilde",
+        "genre": "sad"
+    },
+    {
+        "quote": "Everything that has ever been called folk art has always reflected domination.",
+        "author": "Theodor Adorno",
+        "genre": "art"
+    },
+    {
+        "quote": "My mom always says I cut my teeth on the church pew.",
+        "author": "Miranda Lambert",
+        "genre": "mom"
+    },
+    {
+        "quote": "Men should think twice before making widow hood woman's only path to power.",
+        "author": "Gloria Steinem",
+        "genre": "power"
+    },
+    {
+        "quote": "I'm not a real movie star. I've still got the same wife I started out with twenty-eight years ago.",
+        "author": "Will Rogers",
+        "genre": "funny"
+    },
+    {
+        "quote": "Freedom is the sure possession of those alone who have the courage to defend it.",
+        "author": "Pericles",
+        "genre": "freedom"
+    },
+    {
+        "quote": "Sadness is also a kind of defence.",
+        "author": "Ivo Andric",
+        "genre": "sad"
+    },
+    {
+        "quote": "Why should people go out and pay money to see bad films when they can stay at home and see bad television for nothing?",
+        "author": "Samuel Goldwyn",
+        "genre": "movies"
+    },
+    {
+        "quote": "Life's greatest happiness is to be convinced we are loved.",
+        "author": "Victor Hugo",
+        "genre": "happiness"
+    },
+    {
+        "quote": "To be social is to be forgiving.",
+        "author": "Robert Frost",
+        "genre": "forgiveness"
+    },
+    {
+        "quote": "People just assume that if you're famous, you're in Hollywood.",
+        "author": "Megan Fox",
+        "genre": "famous"
+    },
+    {
+        "quote": "The same people who can deny others everything are famous for refusing themselves nothing.",
+        "author": "Leigh Hunt",
+        "genre": "famous"
+    },
+    {
+        "quote": "I will do my best. That is all I can do. I ask for your help - and God's.",
+        "author": "Lyndon B. Johnson",
+        "genre": "god"
+    },
+    {
+        "quote": "I wanted to try to push some freedom into the men's clothes.",
+        "author": "Miuccia Prada",
+        "genre": "freedom"
+    },
+    {
+        "quote": "Every life has a measure of sorrow, and sometimes this is what awakens us.",
+        "author": "Steven Tyler",
+        "genre": "sad"
+    },
+    {
+        "quote": "I don't think I'm such an amazing person who needs to be written about.",
+        "author": "Amy Winehouse",
+        "genre": "amazing"
+    },
+    {
+        "quote": "I grew up in the suburbs and basically associate the suburbs with cultural death.",
+        "author": "Billy Corgan",
+        "genre": "death"
+    },
+    {
+        "quote": "Even though I didn't get a business degree, I enjoyed learning about economics.",
+        "author": "Herb Ritts",
+        "genre": "graduation"
+    },
+    {
+        "quote": "Behind every great man is a woman rolling her eyes.",
+        "author": "Jim Carrey",
+        "genre": "great"
+    },
+    {
+        "quote": "Hope is a good breakfast, but it is a bad supper.",
+        "author": "Francis Bacon",
+        "genre": "hope"
+    },
+    {
+        "quote": "Global Warming: It is a hoax. It is bad science. It is high-jacking public policy. It is the greatest scam in history.",
+        "author": "John Coleman",
+        "genre": "science"
+    },
+    {
+        "quote": "Awareness in our society has flipped all types of injustice on its head.",
+        "author": "Serj Tankian",
+        "genre": "society"
+    },
+    {
+        "quote": "When all of your wishes are granted, many of your dreams will be destroyed.",
+        "author": "Marilyn Manson",
+        "genre": "dreams"
+    },
+    {
+        "quote": "An overflow of good converts to bad.",
+        "author": "William Shakespeare",
+        "genre": "good"
+    },
+    {
+        "quote": "Learning starts with failure the first failure is the beginning of education.",
+        "author": "John Hersey",
+        "genre": "learning"
+    },
+    {
+        "quote": "I think my attitude to human beings has changed since leaving prison.",
+        "author": "Jeffrey Archer",
+        "genre": "attitude"
+    },
+    {
+        "quote": "I feel my family's needs are a priority. I'm not comfortable with the idea of serving the many and ignoring my family.",
+        "author": "Susan Sarandon",
+        "genre": "family"
+    },
+    {
+        "quote": "God's delays are not God's denials.",
+        "author": "Robert H. Schuller",
+        "genre": "god"
+    },
+    {
+        "quote": "Genius without education is like silver in the mine.",
+        "author": "Benjamin Franklin",
+        "genre": "education"
+    },
+    {
+        "quote": "Advertising is fundamentally persuasion and persuasion happens to be not a science, but an art.",
+        "author": "William Bernbach",
+        "genre": "art"
+    },
+    {
+        "quote": "There are truths which are not for all men, nor for all times.",
+        "author": "Voltaire",
+        "genre": "men"
+    },
+    {
+        "quote": "The worst thing about some men is that when they are not drunk they are sober.",
+        "author": "William Butler Yeats",
+        "genre": "men"
+    },
+    {
+        "quote": "The movies were custard compared to politics.",
+        "author": "Nancy Reagan",
+        "genre": "movies"
+    },
+    {
+        "quote": "Sometimes life hits you in the head with a brick. Don't lose faith.",
+        "author": "Steve Jobs",
+        "genre": "life"
+    },
+    {
+        "quote": "When you relinquish the desire to control your future, you can have more happiness.",
+        "author": "Nicole Kidman",
+        "genre": "happiness"
+    },
+    {
+        "quote": "You create a community with music, not just at concerts but by talking about it with your friends.",
+        "author": "David Byrne",
+        "genre": "music"
+    },
+    {
+        "quote": "I'll always prefer to play with women and hang out with women, and I'll always be a feminist.",
+        "author": "Courtney Love",
+        "genre": "women"
+    },
+    {
+        "quote": "Anything you're good at contributes to happiness.",
+        "author": "Bertrand Russell",
+        "genre": "good"
+    },
+    {
+        "quote": "I'm the only person of distinction who has ever had a depression named for him.",
+        "author": "Herbert Hoover",
+        "genre": "history"
+    },
+    {
+        "quote": "The great thing in the world is not so much to seek happiness as to earn peace and self-respect.",
+        "author": "Thomas Huxley",
+        "genre": "peace"
+    },
+    {
+        "quote": "Only the educated are free.",
+        "author": "Epictetus",
+        "genre": "motivational"
+    },
+    {
+        "quote": "Human freedom involves our capacity to pause, to choose the one response toward which we wish to throw our weight.",
+        "author": "Rollo May",
+        "genre": "freedom"
+    },
+    {
+        "quote": "We don't have a monopoly. We have market share. There's a difference.",
+        "author": "Steve Ballmer",
+        "genre": "business"
+    },
+    {
+        "quote": "Music is my religion.",
+        "author": "Jimi Hendrix",
+        "genre": "music"
+    },
+    {
+        "quote": "A team is where a boy can prove his courage on his own. A gang is where a coward goes to hide.",
+        "author": "Mickey Mantle",
+        "genre": "courage"
+    },
+    {
+        "quote": "People in general are equally horrified at hearing the Christian religion doubted, and at seeing it practiced.",
+        "author": "Samuel Butler",
+        "genre": "religion"
+    },
+    {
+        "quote": "I found marriage somewhat stifling. I don't know that I am the kind of man who ought to be married.",
+        "author": "Burt Lancaster",
+        "genre": "marriage"
+    },
+    {
+        "quote": "Even in the presence of others he was completely alone.",
+        "author": "Robert M. Pirsig",
+        "genre": "alone"
+    },
+    {
+        "quote": "I got a fascination with food.",
+        "author": "Heather Mills",
+        "genre": "food"
+    },
+    {
+        "quote": "Since my teen years I was interested in martial arts.",
+        "author": "Tony Visconti",
+        "genre": "teen"
+    },
+    {
+        "quote": "Religion can be both good and bad - it is spirituality that counts.",
+        "author": "Pat Buckley",
+        "genre": "religion"
+    },
+    {
+        "quote": "I grew up in a very toxic home.",
+        "author": "Bethenny Frankel",
+        "genre": "home"
+    },
+    {
+        "quote": "A man who is good enough to shed his blood for the country is good enough to be given a square deal afterwards.",
+        "author": "Theodore Roosevelt",
+        "genre": "good"
+    },
+    {
+        "quote": "To speak of morals in art is to speak of legislature in sex. Art is the sex of the imagination.",
+        "author": "George Jean Nathan",
+        "genre": "art"
+    },
+    {
+        "quote": "Personal beauty is a greater recommendation than any letter of reference.",
+        "author": "Aristotle",
+        "genre": "beauty"
+    },
+    {
+        "quote": "I am still learning every day not to watch other people's careers and compare.",
+        "author": "Joely Fisher",
+        "genre": "learning"
+    },
+    {
+        "quote": "I don't have a caustic sense of humor. What I find funny, that humor comes from a much gentler place.",
+        "author": "Vera Farmiga",
+        "genre": "humor"
+    },
+    {
+        "quote": "I'm not a movie guy, I'm not a TV sitcom guy, but whatever seems to fit and is funny is good for me.",
+        "author": "Dave Attell",
+        "genre": "funny"
+    },
+    {
+        "quote": "Television has brought back murder into the home - where it belongs.",
+        "author": "Alfred Hitchcock",
+        "genre": "funny"
+    },
+    {
+        "quote": "The most merciful thing that a family does to one of its infant members is to kill it.",
+        "author": "Margaret Sanger",
+        "genre": "family"
+    },
+    {
+        "quote": "The ideal man bears the accidents of life with dignity and grace, making the best of circumstances.",
+        "author": "Aristotle",
+        "genre": "life"
+    },
+    {
+        "quote": "The more sand has escaped from the hourglass of our life, the clearer we should see through it.",
+        "author": "Niccolo Machiavelli",
+        "genre": "life"
+    },
+    {
+        "quote": "A chair is a very difficult object. A skyscraper is almost easier. That is why Chippendale is famous.",
+        "author": "Ludwig Mies van der Rohe",
+        "genre": "famous"
+    },
+    {
+        "quote": "If they want to hang me, let them. And on the scaffold I will shout Freedom for the working class!",
+        "author": "Mother Jones",
+        "genre": "freedom"
+    },
+    {
+        "quote": "I grew up singing. My mother was a music teacher.",
+        "author": "Connie Britton",
+        "genre": "teacher"
+    },
+    {
+        "quote": "The truth doesn't hurt unless it ought to.",
+        "author": "B. C. Forbes",
+        "genre": "truth"
+    },
+    {
+        "quote": "The life of a man consists not in seeing visions and in dreaming dreams, but in active charity and in willing service.",
+        "author": "Henry Wadsworth Longfellow",
+        "genre": "dreams"
+    },
+    {
+        "quote": "If we reject science, we reject the common man.",
+        "author": "Naguib Mahfouz",
+        "genre": "science"
+    },
+    {
+        "quote": "Don't give me any money, don't give me any people, but give freedom, and I'll give you a movie that looks gigantic.",
+        "author": "Robert Rodriguez",
+        "genre": "freedom"
+    },
+    {
+        "quote": "I have an obligation to try to live as long as I can for my family.",
+        "author": "Elizabeth Edwards",
+        "genre": "family"
+    },
+    {
+        "quote": "I don't like formal gardens. I like wild nature. It's just the wilderness instinct in me, I guess.",
+        "author": "Walt Disney",
+        "genre": "nature"
+    },
+    {
+        "quote": "About the only problem with success is that it does not teach you how to deal with failure.",
+        "author": "Tommy Lasorda",
+        "genre": "success"
+    },
+    {
+        "quote": "Red Sox fans have been pushed to the brink over the years, but that's how faith grows stronger.",
+        "author": "Julianna Baggott",
+        "genre": "faith"
+    },
+    {
+        "quote": "I'm not aiming for the Nobel Peace Prize!",
+        "author": "Omar Bongo",
+        "genre": "peace"
+    },
+    {
+        "quote": "Men are like wine - some turn to vinegar, but the best improve with age.",
+        "author": "Pope John XXIII",
+        "genre": "age"
+    },
+    {
+        "quote": "Men use thought only as authority for their injustice, and employ speech only to conceal their thoughts.",
+        "author": "Voltaire",
+        "genre": "men"
+    },
+    {
+        "quote": "The Christian use of religion as a personal love affair both shocked me, and attracted me.",
+        "author": "Lionel Blue",
+        "genre": "religion"
+    },
+    {
+        "quote": "Until you walk a mile in another man's moccasins you can't imagine the smell.",
+        "author": "Robert Byrne",
+        "genre": "funny"
+    },
+    {
+        "quote": "And the heart that is soonest awake to the flowers is always the first to be touch'd by the thorns.",
+        "author": "Thomas Moore",
+        "genre": "nature"
+    },
+    {
+        "quote": "I would like to learn, or remember, how to live.",
+        "author": "Annie Dillard",
+        "genre": "education"
+    },
+    {
+        "quote": "All great peoples are conservative.",
+        "author": "Thomas Carlyle",
+        "genre": "great"
+    },
+    {
+        "quote": "I try to just make music that I love, and if I believe in it that's all that matters.",
+        "author": "Norah Jones",
+        "genre": "music"
+    },
+    {
+        "quote": "The real solution is to improve the incomes of the poor and provide their children with decent education.",
+        "author": "Carol Bellamy",
+        "genre": "education"
+    },
+    {
+        "quote": "I don't even know how to use a parking meter, let alone a phone box.",
+        "author": "Princess Diana",
+        "genre": "alone"
+    },
+    {
+        "quote": "Dream and give yourself permission to envision a You that you choose to be.",
+        "author": "Joy Page",
+        "genre": "dreams"
+    },
+    {
+        "quote": "Nothing can bring a real sense of security into the home except true love.",
+        "author": "Billy Graham",
+        "genre": "home"
+    },
+    {
+        "quote": "I have a family and two cats I get up with my kids early in the morning.",
+        "author": "Vanna White",
+        "genre": "morning"
+    },
+    {
+        "quote": "My dad has no control over who works with me. Me, me and me alone has to take responsibility for anything.",
+        "author": "Shane MacGowan",
+        "genre": "dad"
+    },
+    {
+        "quote": "Life must be lived as play.",
+        "author": "Plato",
+        "genre": "life"
+    },
+    {
+        "quote": "I would not plan to base my campaign primarily on opposition to the war in the Persian Gulf.",
+        "author": "George McGovern",
+        "genre": "war"
+    },
+    {
+        "quote": "If net neutrality goes away, it will fundamentally change everything about the Internet.",
+        "author": "James Hilton",
+        "genre": "computers"
+    },
+    {
+        "quote": "I hope I'm always learning something.",
+        "author": "Kate Winslet",
+        "genre": "learning"
+    },
+    {
+        "quote": "Yes, I still love 'South Park,' but I also love morning TV now.",
+        "author": "Mo Rocca",
+        "genre": "morning"
+    },
+    {
+        "quote": "Men don't care what's on TV. They only care what else is on TV.",
+        "author": "Jerry Seinfeld",
+        "genre": "funny"
+    },
+    {
+        "quote": "I would like to see a future where artists think that they have a right to contemplate things like global warming.",
+        "author": "Brian Eno",
+        "genre": "future"
+    },
+    {
+        "quote": "Oh, give us the man who sings at his work.",
+        "author": "Thomas Carlyle",
+        "genre": "work"
+    },
+    {
+        "quote": "If you have four years to complete your college education, do it.",
+        "author": "Bo Jackson",
+        "genre": "education"
+    },
+    {
+        "quote": "People take the mickey out of mental health, but it is very delicate.",
+        "author": "Frank Bruno",
+        "genre": "health"
+    },
+    {
+        "quote": "Here I am trying to live, or rather, I am trying to teach the death within me how to live.",
+        "author": "Jean Cocteau",
+        "genre": "death"
+    },
+    {
+        "quote": "Democracy does not guarantee equality of conditions - it only guarantees equality of opportunity.",
+        "author": "Irving Kristol",
+        "genre": "equality"
+    },
+    {
+        "quote": "Change is such hard work.",
+        "author": "Billy Crystal",
+        "genre": "work"
+    },
+    {
+        "quote": "If we could but paint with the hand what we see with the eye.",
+        "author": "Honore de Balzac",
+        "genre": "art"
+    },
+    {
+        "quote": "Extensive traveling induces a feeling of encapsulation, and travel, so broadening at first, contracts the mind.",
+        "author": "Paul Theroux",
+        "genre": "travel"
+    },
+    {
+        "quote": "Blues and soul and jazz music has so much pain, so much beauty of raw emotion and passion.",
+        "author": "Christina Aguilera",
+        "genre": "beauty"
+    },
+    {
+        "quote": "I'm not particularly precious about the theatrical experience any more.",
+        "author": "Edward Norton",
+        "genre": "experience"
+    },
+    {
+        "quote": "And on the other hand, we see that the Israeli government is attacking that part of the Palestinian leader.",
+        "author": "Rafik Hariri",
+        "genre": "government"
+    },
+    {
+        "quote": "The more sand that has escaped from the hourglass of our life, the clearer we should see through it.",
+        "author": "Jean Paul",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "Keep the faith, don't lose your perseverance and always trust your gut extinct.",
+        "author": "Paula Abdul",
+        "genre": "faith"
+    },
+    {
+        "quote": "IN April 1882 my father died and I was at once whirled out of my land of dreams into a very different sphere.",
+        "author": "Edward Carpenter",
+        "genre": "dreams"
+    },
+    {
+        "quote": "Sport fosters many things that are good teamwork and leadership.",
+        "author": "Daley Thompson",
+        "genre": "leadership"
+    },
+    {
+        "quote": "Your actions, and your action alone, determines your worth.",
+        "author": "Evelyn Waugh",
+        "genre": "alone"
+    },
+    {
+        "quote": "I was growing up listening to Queen. Freddie Mercury threw those incredible melodies into his songs.",
+        "author": "Gary Cherone",
+        "genre": "music"
+    },
+    {
+        "quote": "I have witnessed the softening of the hardest of hearts by a simple smile.",
+        "author": "Goldie Hawn",
+        "genre": "smile"
+    },
+    {
+        "quote": "Biology always beats will power.",
+        "author": "Mehmet Oz",
+        "genre": "power"
+    },
+    {
+        "quote": "I have no fear that the candle lighted in Palestine years ago will ever be put out.",
+        "author": "Dean Inge",
+        "genre": "fear"
+    },
+    {
+        "quote": "Raising awareness on the most pressing environmental issues of our time is more important than ever.",
+        "author": "Leonardo DiCaprio",
+        "genre": "environmental"
+    },
+    {
+        "quote": "I am at peace with God. My conflict is with Man.",
+        "author": "Charlie Chaplin",
+        "genre": "peace"
+    },
+    {
+        "quote": "A lot of country music is sad.",
+        "author": "Willie Nelson",
+        "genre": "sad"
+    },
+    {
+        "quote": "You see, that's another thing that my parents gave me: an enormously great sense of humor.",
+        "author": "Liza Minnelli",
+        "genre": "humor"
+    },
+    {
+        "quote": "Love takes up where knowledge leaves off.",
+        "author": "Thomas Aquinas",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "The trouble with women umpires is that I couldn't argue with one. I'd put my arms around her and give her a little kiss.",
+        "author": "Casey Stengel",
+        "genre": "women"
+    },
+    {
+        "quote": "Government is an association of men who do violence to the rest of us.",
+        "author": "Leo Tolstoy",
+        "genre": "government"
+    },
+    {
+        "quote": "One who comes to the Court must come to adore, not to protest. That's the new gloss on the 1st Amendment.",
+        "author": "William O. Douglas",
+        "genre": "history"
+    },
+    {
+        "quote": "Whereas with poetry no one has to show anybody really, and you don't have to tell anyone you're doing it.",
+        "author": "Roger McGough",
+        "genre": "poetry"
+    },
+    {
+        "quote": "We live in a society obsessed with public opinion. But leadership has never been about popularity.",
+        "author": "Marco Rubio",
+        "genre": "leadership"
+    },
+    {
+        "quote": "God, I can push the grass apart and lay my finger on Thy heart.",
+        "author": "Edna St. Vincent Millay",
+        "genre": "god"
+    },
+    {
+        "quote": "I worshipped Berry Gordy for the creative dreams he had made come true.",
+        "author": "Martha Reeves",
+        "genre": "dreams"
+    },
+    {
+        "quote": "I'm for women choosing whatever they want to do but they have to really know what they are doing.",
+        "author": "Alice Walker",
+        "genre": "women"
+    },
+    {
+        "quote": "Faith in a holy cause is to a considerable extent a substitute for lost faith in ourselves.",
+        "author": "Eric Hoffer",
+        "genre": "faith"
+    },
+    {
+        "quote": "Time misspent in youth is sometimes all the freedom one ever has.",
+        "author": "Anita Brookner",
+        "genre": "freedom"
+    },
+    {
+        "quote": "Poetry lies its way to the truth.",
+        "author": "John Ciardi",
+        "genre": "poetry"
+    },
+    {
+        "quote": "The enemy of the conventional wisdom is not ideas but the march of events.",
+        "author": "John Kenneth Galbraith",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "I love photography. My boyfriend's got a great camera, which I bought for his birthday.",
+        "author": "Sarah Sutton",
+        "genre": "birthday"
+    },
+    {
+        "quote": "When the rich wage war, it's the poor who die.",
+        "author": "Jean-Paul Sartre",
+        "genre": "war"
+    },
+    {
+        "quote": "If women ran the world we wouldn't have wars, just intense negotiations every 28 days.",
+        "author": "Robin Williams",
+        "genre": "women"
+    },
+    {
+        "quote": "Women are like teabags. We don't know our true strength until we are in hot water!",
+        "author": "Eleanor Roosevelt",
+        "genre": "women"
+    },
+    {
+        "quote": "I think poetry is best read to oneself.",
+        "author": "Rickie Lee Jones",
+        "genre": "poetry"
+    },
+    {
+        "quote": "Like music and art, love of nature is a common language that can transcend political or social boundaries.",
+        "author": "Jimmy Carter",
+        "genre": "music"
+    },
+    {
+        "quote": "Most people ask for happiness on condition. Happiness can only be felt if you don't set any condition.",
+        "author": "Arthur Rubinstein",
+        "genre": "happiness"
+    },
+    {
+        "quote": "Definitely River Phoenix is somebody that I thought, 'This guy is very cool.' I wanted to be like him when I was a kid.",
+        "author": "Jim Sturgess",
+        "genre": "cool"
+    },
+    {
+        "quote": "May Heaven be propitious, and smile on the cause of my country.",
+        "author": "Zebulon Pike",
+        "genre": "smile"
+    },
+    {
+        "quote": "Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.",
+        "author": "Louis Pasteur",
+        "genre": "science"
+    },
+    {
+        "quote": "I had the standard movie geek childhood, because for as long as I can remember, all I wanted to do was make movies.",
+        "author": "Paul Thomas Anderson",
+        "genre": "movies"
+    },
+    {
+        "quote": "We must accept finite disappointment, but never lose infinite hope.",
+        "author": "Martin Luther King, Jr.",
+        "genre": "hope"
+    },
+    {
+        "quote": "Dreams do come true, even for someone who couldn't speak English and never had a music lesson or much of an education.",
+        "author": "Lawrence Welk",
+        "genre": "dreams"
+    },
+    {
+        "quote": "Apparently it's cool to watch The Daily Show.",
+        "author": "Rob Corddry",
+        "genre": "cool"
+    },
+    {
+        "quote": "There must be freedom for all to live, to think, to worship, no book, no avenue must be closed.",
+        "author": "James Larkin",
+        "genre": "religion"
+    },
+    {
+        "quote": "Not brute force but only persuasion and faith are the kings of this world.",
+        "author": "Thomas Carlyle",
+        "genre": "faith"
+    },
+    {
+        "quote": "Take hope from the heart of man and you make him a beast of prey.",
+        "author": "Ouida",
+        "genre": "hope"
+    },
+    {
+        "quote": "Our business is about technology, yes. But it's also about operations and customer relationships.",
+        "author": "Michael Dell",
+        "genre": "technology"
+    },
+    {
+        "quote": "I became a fanatic about healthy food in 1944.",
+        "author": "Gloria Swanson",
+        "genre": "food"
+    },
+    {
+        "quote": "The key to education is the experience of beauty.",
+        "author": "Friedrich Schiller",
+        "genre": "beauty"
+    },
+    {
+        "quote": "The truth is, sex doesn't mean that much to me now.",
+        "author": "Lana Turner",
+        "genre": "truth"
+    },
+    {
+        "quote": "I'm a true believer in karma. You get what you give, whether it's bad or good.",
+        "author": "Sandra Bullock",
+        "genre": "good"
+    },
+    {
+        "quote": "Friends are the siblings God never gave us.",
+        "author": "Mencius",
+        "genre": "god"
+    },
+    {
+        "quote": "'Beauty is truth, truth beauty,' - that is all ye know on earth, and all ye need to know.",
+        "author": "John Keats",
+        "genre": "beauty"
+    },
+    {
+        "quote": "God is the tangential point between zero and infinity.",
+        "author": "Alfred Jarry",
+        "genre": "god"
+    },
+    {
+        "quote": "Nothing would be more tiresome than eating and drinking if God had not made them a pleasure as well as a necessity.",
+        "author": "Voltaire",
+        "genre": "god"
+    },
+    {
+        "quote": "The best vision is insight.",
+        "author": "Malcolm Forbes",
+        "genre": "best"
+    },
+    {
+        "quote": "The forgotten man... He works, he votes, generally he prays, but his chief business in life is to pay.",
+        "author": "William Graham Sumner",
+        "genre": "business"
+    },
+    {
+        "quote": "In youth and beauty, wisdom is but rare!",
+        "author": "Homer",
+        "genre": "beauty"
+    },
+    {
+        "quote": "Learning hath gained most by those books by which the printers have lost.",
+        "author": "Thomas Fuller",
+        "genre": "learning"
+    },
+    {
+        "quote": "I would like to be a positive force for young girls.",
+        "author": "Leona Lewis",
+        "genre": "positive"
+    },
+    {
+        "quote": "I think my dad is a lot cooler than other dads. He still acts like he's still 17.",
+        "author": "Miley Cyrus",
+        "genre": "dad"
+    },
+    {
+        "quote": "I'm a big advocate of freedom: freedom of speech, freedom of expression, freedom of thought.",
+        "author": "Jimmy Wales",
+        "genre": "freedom"
+    },
+    {
+        "quote": "Speak ill of no man, but speak all the good you know of everybody.",
+        "author": "Benjamin Franklin",
+        "genre": "good"
+    },
+    {
+        "quote": "I travel a lot to promote the perfumes and to do the commercials.",
+        "author": "Gabriela Sabatini",
+        "genre": "travel"
+    },
+    {
+        "quote": "As usual, there is a great woman behind every idiot.",
+        "author": "John Lennon",
+        "genre": "women"
+    },
+    {
+        "quote": "Who would give a law to lovers? Love is unto itself a higher law.",
+        "author": "Boethius",
+        "genre": "love"
+    },
+    {
+        "quote": "An intellectual is a man who takes more words than necessary to tell more than he knows.",
+        "author": "Dwight D. Eisenhower",
+        "genre": "intelligence"
+    },
+    {
+        "quote": "To understand how any society functions you must understand the relationship between the men and the women.",
+        "author": "Angela Davis",
+        "genre": "women"
+    },
+    {
+        "quote": "I go to the movies at least five times a week, and after a while everything becomes a blur to me.",
+        "author": "David Sedaris",
+        "genre": "movies"
+    },
+    {
+        "quote": "If any man seeks for greatness, let him forget greatness and ask for truth, and he will find both.",
+        "author": "Horace Mann",
+        "genre": "truth"
+    },
+    {
+        "quote": "I go to school the youth to learn the future.",
+        "author": "Robert Frost",
+        "genre": "future"
+    },
+    {
+        "quote": "There were three of us in this marriage, so it was a bit crowded.",
+        "author": "Princess Diana",
+        "genre": "marriage"
+    },
+    {
+        "quote": "Sometimes your disappointments make you a stronger person for the future.",
+        "author": "Blanka Vlasic",
+        "genre": "future"
+    },
+    {
+        "quote": "Happiness seems made to be shared.",
+        "author": "Pierre Corneille",
+        "genre": "happiness"
+    },
+    {
+        "quote": "The really frightening thing about middle age is the knowledge that you'll grow out of it.",
+        "author": "Doris Day",
+        "genre": "age"
+    },
+    {
+        "quote": "I think a lot of women innately know how to play their hand. I'm not a big one for the rules.",
+        "author": "Katherine Heigl",
+        "genre": "women"
+    },
+    {
+        "quote": "My mom drives me crazy sometimes, but I have a good relationship with her.",
+        "author": "Seth Rogen",
+        "genre": "mom"
+    },
+    {
+        "quote": "Talent in cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.",
+        "author": "Stephen King",
+        "genre": "work"
+    },
+    {
+        "quote": "As sure as the spring will follow the winter, prosperity and economic growth will follow recession.",
+        "author": "Bo Bennett",
+        "genre": "finance"
+    },
+    {
+        "quote": "Broadly speaking, the short words are the best, and the old words best of all.",
+        "author": "Winston Churchill",
+        "genre": "best"
+    },
+    {
+        "quote": "Action may not bring happiness but there is no happiness without action.",
+        "author": "William James",
+        "genre": "happiness"
+    },
+    {
+        "quote": "The man who has the will to undergo all labor may win to any good.",
+        "author": "Martin Luther",
+        "genre": "good"
+    },
+    {
+        "quote": "I carried through well with my tennis. I got the respect by usage of the tennis racket.",
+        "author": "Gabriela Sabatini",
+        "genre": "respect"
+    },
+    {
+        "quote": "I didn't set out to be famous if I'd wanted that, I would have gone on 'Big Brother.'",
+        "author": "Sam Worthington",
+        "genre": "famous"
+    },
+    {
+        "quote": "Marriage is nature's way of keeping us from fighting with strangers.",
+        "author": "Alan King",
+        "genre": "marriage"
+    },
+    {
+        "quote": "Love is a serious mental disease.",
+        "author": "Plato",
+        "genre": "love"
+    },
+    {
+        "quote": "The world of knowledge takes a crazy turn when teachers themselves are taught to learn.",
+        "author": "Bertolt Brecht",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "In Australia, not reading poetry is the national pastime.",
+        "author": "Phyllis McGinley",
+        "genre": "poetry"
+    },
+    {
+        "quote": "I just always have to cry out a breakup, and then I can make peace with it pretty quickly.",
+        "author": "Brittany Murphy",
+        "genre": "peace"
+    },
+    {
+        "quote": "Christians should be ready for a change because Jesus was the greatest changer in history.",
+        "author": "Ralph Abernathy",
+        "genre": "history"
+    },
+    {
+        "quote": "Turn your wounds into wisdom.",
+        "author": "Oprah Winfrey",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "The sentiments in Hawaii about Washington's failure of leadership are no different than the rest of the country.",
+        "author": "Ed Case",
+        "genre": "leadership"
+    },
+    {
+        "quote": "I hope I can help guys come out and say, 'All right, dude, I got a manicure... and I liked it.'",
+        "author": "Ryan Seacrest",
+        "genre": "hope"
+    },
+    {
+        "quote": "Friendship's the wine of life: but friendship new... is neither strong nor pure.",
+        "author": "Edward Young",
+        "genre": "friendship"
+    },
+    {
+        "quote": "I don't have to have faith, I have experience.",
+        "author": "Joseph Campbell",
+        "genre": "faith"
+    },
+    {
+        "quote": "Men have a respect for scholarship and learning greatly out of proportion to the use they commonly serve.",
+        "author": "Henry David Thoreau",
+        "genre": "men"
+    },
+    {
+        "quote": "Life and death. They are somehow sweetly and beautifully mixed, but I don't know how.",
+        "author": "Gloria Swanson",
+        "genre": "death"
+    },
+    {
+        "quote": "Science consistently produces a new crop of miraculous truths and dazzling devices every year.",
+        "author": "Kary Mullis",
+        "genre": "science"
+    },
+    {
+        "quote": "History is a gallery of pictures in which there are few originals and many copies.",
+        "author": "Alexis de Tocqueville",
+        "genre": "history"
+    },
+    {
+        "quote": "Yoga is a way to freedom. By its constant practice, we can free ourselves from fear, anguish and loneliness.",
+        "author": "Indra Devi",
+        "genre": "freedom"
+    },
+    {
+        "quote": "Before 'Schindler's List,' I wouldn't have believed movies had a lot of power for social change.",
+        "author": "Liam Neeson",
+        "genre": "power"
+    },
+    {
+        "quote": "The way to develop self-confidence is to do the thing you fear and get a record of successful experiences behind you.",
+        "author": "William Jennings Bryan",
+        "genre": "fear"
+    },
+    {
+        "quote": "I've always said money may buy you a fine dog, but only love can make it wag its tail.",
+        "author": "Kinky Friedman",
+        "genre": "money"
+    },
+    {
+        "quote": "I like a man who can be a real friend, has a good sense of humor, a good pair of shoes and a healthy gold card.",
+        "author": "Victoria Beckham",
+        "genre": "good"
+    },
+    {
+        "quote": "Office politics are bloody-minded, but weak on content.",
+        "author": "Mason Cooley",
+        "genre": "politics"
+    },
+    {
+        "quote": "It was cool to do someone else's movie. It was a lot of fun.",
+        "author": "Jason Mewes",
+        "genre": "cool"
+    },
+    {
+        "quote": "Courage is just fear, plus prayers, plus understanding.",
+        "author": "Edward Albert",
+        "genre": "courage"
+    },
+    {
+        "quote": "I believe fundamental honesty is the keystone of business.",
+        "author": "Harvey S. Firestone",
+        "genre": "business"
+    },
+    {
+        "quote": "Fortune cookies are a good idea. If the message is positive, it can make your day a little better.",
+        "author": "Yao Ming",
+        "genre": "positive"
+    },
+    {
+        "quote": "There is no grief like the grief that does not speak.",
+        "author": "Henry Wadsworth Longfellow",
+        "genre": "sympathy"
+    },
+    {
+        "quote": "Divorced from ethics, leadership is reduced to management and politics to mere technique.",
+        "author": "James MacGregor Burns",
+        "genre": "politics"
+    },
+    {
+        "quote": "Strive not to be a success, but rather to be of value.",
+        "author": "Albert Einstein",
+        "genre": "success"
+    },
+    {
+        "quote": "All men of action are dreamers.",
+        "author": "James Huneker",
+        "genre": "men"
+    },
+    {
+        "quote": "The counterfeit and counterpart of Nature is reproduced in art.",
+        "author": "Henry Wadsworth Longfellow",
+        "genre": "art"
+    },
+    {
+        "quote": "Marriage can be viewed as the waiting room for death.",
+        "author": "Mike Myers",
+        "genre": "marriage"
+    },
+    {
+        "quote": "Every man dies. Not every man really lives.",
+        "author": "William Wallace",
+        "genre": "life"
+    },
+    {
+        "quote": "Genuine happiness comes from within, and often it comes in spontaneous feelings of joy.",
+        "author": "Andrew Weil",
+        "genre": "happiness"
+    },
+    {
+        "quote": "The best form of government is that which is most likely to prevent the greatest sum of evil.",
+        "author": "James Monroe",
+        "genre": "best"
+    },
+    {
+        "quote": "To expect too much is to have a sentimental view of life and this is a softness that ends in bitterness.",
+        "author": "Flannery O'Connor",
+        "genre": "life"
+    },
+    {
+        "quote": "If your best friend has stolen your girlfriend, it does become life and death.",
+        "author": "Ben Kingsley",
+        "genre": "relationship"
+    },
+    {
+        "quote": "Be the business never so painful, you may have it done for money.",
+        "author": "Thomas Fuller",
+        "genre": "business"
+    },
+    {
+        "quote": "Next to power without honor, the most dangerous thing in the world is power without humor.",
+        "author": "Eric Sevareid",
+        "genre": "power"
+    },
+    {
+        "quote": "I do not expect the white media to create positive black male images.",
+        "author": "Huey Newton",
+        "genre": "positive"
+    },
+    {
+        "quote": "An evil life is a kind of death.",
+        "author": "Ovid",
+        "genre": "death"
+    },
+    {
+        "quote": "I think we're very complicated and we're capable of all kinds of things, and movies don't reflect that.",
+        "author": "Ryan Gosling",
+        "genre": "movies"
+    },
+    {
+        "quote": "Blues and soul and jazz music has so much pain, so much beauty of raw emotion and passion.",
+        "author": "Christina Aguilera",
+        "genre": "music"
+    },
+    {
+        "quote": "Patriotism is usually stronger than class hatred, and always stronger than internationalism.",
+        "author": "George Orwell",
+        "genre": "patriotism"
+    },
+    {
+        "quote": "Give whatever you are doing and whoever you are with the gift of your attention.",
+        "author": "Jim Rohn",
+        "genre": "leadership"
+    },
+    {
+        "quote": "You must not fight too often with one enemy, or you will teach him all your art of war.",
+        "author": "Napoleon Bonaparte",
+        "genre": "war"
+    },
+    {
+        "quote": "History does not long entrust the care of freedom to the weak or the timid.",
+        "author": "Dwight D. Eisenhower",
+        "genre": "history"
+    },
+    {
+        "quote": "An ideal wife is one who remains faithful to you but tries to be just as charming as if she weren't.",
+        "author": "Sacha Guitry",
+        "genre": "marriage"
+    },
+    {
+        "quote": "Beauty can't amuse you, but brainwork - reading, writing, thinking - can.",
+        "author": "Helen Gurley Brown",
+        "genre": "beauty"
+    },
+    {
+        "quote": "That some achieve great success, is proof to all that others can achieve it as well.",
+        "author": "Abraham Lincoln",
+        "genre": "great"
+    },
+    {
+        "quote": "The word courage - God, I love that word. Words are so important to me.",
+        "author": "Peter Fonda",
+        "genre": "courage"
+    },
+    {
+        "quote": "I am against the death penalty.",
+        "author": "Andrew Cuomo",
+        "genre": "death"
+    },
+    {
+        "quote": "Humour is the weapon of unarmed people: it helps people who are oppressed to smile at the situation that pains them.",
+        "author": "Simon Wiesenthal",
+        "genre": "humor"
+    },
+    {
+        "quote": "Within 10 years it will be impossible to travel to the North Pole by dog team. There will be too much open water.",
+        "author": "Will Steger",
+        "genre": "environmental"
+    },
+    {
+        "quote": "Far and away the best prize that life has to offer is the chance to work hard at work worth doing.",
+        "author": "Theodore Roosevelt",
+        "genre": "best"
+    },
+    {
+        "quote": "Marriage is too interesting an experiment to be tried only once.",
+        "author": "Eva Gabor",
+        "genre": "marriage"
+    },
+    {
+        "quote": "The American people are smart. They've gotten sick of the predictable hyperpartisan talking points and canned anger.",
+        "author": "John Avlon",
+        "genre": "anger"
+    },
+    {
+        "quote": "As I live and am a man, this is an unexaggerated tale - my dreams become the substances of my life.",
+        "author": "Samuel Taylor Coleridge",
+        "genre": "dreams"
+    },
+    {
+        "quote": "In feature films the director is God in documentary films God is the director.",
+        "author": "Alfred Hitchcock",
+        "genre": "god"
+    },
+    {
+        "quote": "Whatever is begun in anger ends in shame.",
+        "author": "Benjamin Franklin",
+        "genre": "anger"
+    },
+    {
+        "quote": "Think little goals and expect little achievements. Think big goals and win big success.",
+        "author": "David Joseph Schwartz",
+        "genre": "leadership"
+    },
+    {
+        "quote": "I was in three academic clubs, a huge book worm and the teacher's pet. I was kind of an easy target for bullies.",
+        "author": "Nicole Anderson",
+        "genre": "teacher"
+    },
+    {
+        "quote": "Science is organized knowledge. Wisdom is organized life.",
+        "author": "Immanuel Kant",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "It is not sufficient to see and to know the beauty of a work. We must feel and be affected by it.",
+        "author": "Voltaire",
+        "genre": "work"
+    },
+    {
+        "quote": "I just want my family to be safe. Because I am sometimes polarizing, I fear for their safety.",
+        "author": "Lady Gaga",
+        "genre": "fear"
+    },
+    {
+        "quote": "One of the things being in politics has taught me is that men are not a reasoned or reasonable sex.",
+        "author": "Margaret Thatcher",
+        "genre": "politics"
+    },
+    {
+        "quote": "Thou art my single day, God lends to leaven What were all earth else, with a feel of heaven.",
+        "author": "Robert Browning",
+        "genre": "art"
+    },
+    {
+        "quote": "I don't need anyone to rectify my existence. The most profound relationship we will ever have is the one with ourselves.",
+        "author": "Shirley MacLaine",
+        "genre": "relationship"
+    },
+    {
+        "quote": "Jealousy lives upon doubts. It becomes madness or ceases entirely as soon as we pass from doubt to certainty.",
+        "author": "Francois de La Rochefoucauld",
+        "genre": "jealousy"
+    },
+    {
+        "quote": "My movies are important on an economic basis, on an artistic basis.",
+        "author": "Harvey Weinstein",
+        "genre": "movies"
+    },
+    {
+        "quote": "Science has not yet taught us if madness is or is not the sublimity of the intelligence.",
+        "author": "Edgar Allan Poe",
+        "genre": "science"
+    },
+    {
+        "quote": "When human beings live together, conflict is inevitable. War is not.",
+        "author": "Daisaku Ikeda",
+        "genre": "war"
+    },
+    {
+        "quote": "I am determined that my children shall be brought up in their father's religion, if they can find out what it is.",
+        "author": "Charles Lamb",
+        "genre": "religion"
+    },
+    {
+        "quote": "All these jokes have been pre-approved as funny by me.",
+        "author": "Mitch Hedberg",
+        "genre": "funny"
+    },
+    {
+        "quote": "There can be no rise in the value of labour without a fall of profits.",
+        "author": "David Ricardo",
+        "genre": "finance"
+    },
+    {
+        "quote": "Breathe-in experience, breathe-out poetry.",
+        "author": "Muriel Rukeyser",
+        "genre": "experience"
+    },
+    {
+        "quote": "I hate Iran. I hate the Iranian government. It's a cruel and evil government.",
+        "author": "Doris Lessing",
+        "genre": "government"
+    },
+    {
+        "quote": "Children, even infants, are capable of sympathy. But only after adolescence are we capable of compassion.",
+        "author": "Louise J. Kaplan",
+        "genre": "teen"
+    },
+    {
+        "quote": "The best thing about the future is that it comes one day at a time.",
+        "author": "Abraham Lincoln",
+        "genre": "best"
+    },
+    {
+        "quote": "God wants us to prosper financially, to have plenty of money, to fulfill the destiny He has laid out for us.",
+        "author": "Joel Osteen",
+        "genre": "money"
+    },
+    {
+        "quote": "It didn't even occur to me that I'm the last person in the world who should play salsa or Brazilian music.",
+        "author": "David Byrne",
+        "genre": "music"
+    },
+    {
+        "quote": "Husbands are chiefly good as lovers when they are betraying their wives.",
+        "author": "Marilyn Monroe",
+        "genre": "good"
+    },
+    {
+        "quote": "A face to lose youth for, to occupy age With the dream of, meet death with.",
+        "author": "Robert Browning",
+        "genre": "age"
+    },
+    {
+        "quote": "My relationship with my father is pretty non-existent.",
+        "author": "Joey Lauren Adams",
+        "genre": "relationship"
+    },
+    {
+        "quote": "The enlightenment is under threat. So is reason. So is truth. So is science, especially in the schools of America.",
+        "author": "Richard Dawkins",
+        "genre": "science"
+    },
+    {
+        "quote": "Education is the best provision for old age.",
+        "author": "Aristotle",
+        "genre": "age"
+    },
+    {
+        "quote": "To live happily is an inward power of the soul.",
+        "author": "Marcus Aurelius",
+        "genre": "power"
+    },
+    {
+        "quote": "How sweet it is!",
+        "author": "Jackie Gleason",
+        "genre": "valentinesday"
+    },
+    {
+        "quote": "I'm home schooled, and I have a teacher that goes with me on all my movies.",
+        "author": "Dakota Fanning",
+        "genre": "teacher"
+    },
+    {
+        "quote": "Abhorrence of apartheid is a moral attitude, not a policy.",
+        "author": "Edward Heath",
+        "genre": "attitude"
+    },
+    {
+        "quote": "I guess you could say I've been in my share of violent movies.",
+        "author": "Daniel Craig",
+        "genre": "movies"
+    },
+    {
+        "quote": "It is difficult to discriminate the voice of truth from amid the clamor raised by heated partisans.",
+        "author": "Friedrich Schiller",
+        "genre": "truth"
+    },
+    {
+        "quote": "I actually build my dreams around the dancers I've got in my company.",
+        "author": "Graeme Murphy",
+        "genre": "dreams"
+    },
+    {
+        "quote": "Happiness is no respecter of persons.",
+        "author": "Stephen Fry",
+        "genre": "happiness"
+    },
+    {
+        "quote": "When nature has work to be done, she creates a genius to do it.",
+        "author": "Ralph Waldo Emerson",
+        "genre": "nature"
+    },
+    {
+        "quote": "I do not believe that politics in the long run is about individuals. It is about ideas.",
+        "author": "Eliot Spitzer",
+        "genre": "politics"
+    },
+    {
+        "quote": "Dignity is not negotiable. Dignity is the honor of the family.",
+        "author": "Vartan Gregorian",
+        "genre": "family"
+    },
+    {
+        "quote": "It's not the men in my life that count, it's the life in my men.",
+        "author": "Mae West",
+        "genre": "life"
+    },
+    {
+        "quote": "Everyone in L.A. is very positive and upbeat, whereas London can get quite miserable at times.",
+        "author": "Sienna Miller",
+        "genre": "positive"
+    },
+    {
+        "quote": "We need two kinds of acquaintances, one to complain to, while to the others we boast.",
+        "author": "Logan P. Smith",
+        "genre": "funny"
+    },
+    {
+        "quote": "My sweetest hope is to lose hope.",
+        "author": "Pierre Corneille",
+        "genre": "hope"
+    },
+    {
+        "quote": "It's a lot easier to do good work when you have good words to say and work with good people.",
+        "author": "Mark Harmon",
+        "genre": "work"
+    },
+    {
+        "quote": "Your idol is shattered in the dust to prove that God's dust is greater than your idol.",
+        "author": "Rabindranath Tagore",
+        "genre": "god"
+    },
+    {
+        "quote": "And as far as false hope, there is no such thing. There is only hope or the absence of hope-nothing else.",
+        "author": "Patti Davis",
+        "genre": "hope"
+    },
+    {
+        "quote": "The natural effect of sorrow over the dead is to refine and elevate the mind.",
+        "author": "Washington Irving",
+        "genre": "sympathy"
+    },
+    {
+        "quote": "My dad's not a very intimidating father figure.",
+        "author": "Georgia Jagger",
+        "genre": "dad"
+    },
+    {
+        "quote": "Happiness is a by-product. You cannot pursue it by itself.",
+        "author": "Sam Levenson",
+        "genre": "happiness"
+    },
+    {
+        "quote": "Advertising is the art of convincing people to spend money they don't have for something they don't need.",
+        "author": "Will Rogers",
+        "genre": "money"
+    },
+    {
+        "quote": "Change your life today. Don't gamble on the future, act now, without delay.",
+        "author": "Simone de Beauvoir",
+        "genre": "change"
+    },
+    {
+        "quote": "Men of lofty genius when they are doing the least work are most active.",
+        "author": "Leonardo da Vinci",
+        "genre": "work"
+    },
+    {
+        "quote": "Next time I see you, remind me not to talk to you.",
+        "author": "Groucho Marx",
+        "genre": "time"
+    },
+    {
+        "quote": "To the scientist there is the joy in pursuing truth which nearly counteracts the depressing revelations of truth.",
+        "author": "H. P. Lovecraft",
+        "genre": "truth"
+    },
+    {
+        "quote": "It is better to be unhappy in love than unhappy in marriage, but some people manage to be both.",
+        "author": "Guy de Maupassant",
+        "genre": "marriage"
+    },
+    {
+        "quote": "Democracy not only requires equality but also an unshakable conviction in the value of each person, who is then equal.",
+        "author": "Jeane Kirkpatrick",
+        "genre": "equality"
+    },
+    {
+        "quote": "Our duty, as men and women, is to proceed as if limits to our ability did not exist. We are collaborators in creation.",
+        "author": "Pierre Teilhard de Chardin",
+        "genre": "women"
+    },
+    {
+        "quote": "The productivity of work is not the responsibility of the worker but of the manager.",
+        "author": "Peter Drucker",
+        "genre": "work"
+    },
+    {
+        "quote": "What good mothers and fathers instinctively feel like doing for their babies is usually best after all.",
+        "author": "Benjamin Spock",
+        "genre": "best"
+    },
+    {
+        "quote": "Democracy is the recurrent suspicion that more than half of the people are right more than half of the time.",
+        "author": "E. B. White",
+        "genre": "politics"
+    },
+    {
+        "quote": "Justice means minding one's own business and not meddling with other men's concerns.",
+        "author": "Plato",
+        "genre": "men"
+    },
+    {
+        "quote": "I don't want any yes-men around me. I want everybody to tell me the truth even if it costs them their job.",
+        "author": "Samuel Goldwyn",
+        "genre": "truth"
+    },
+    {
+        "quote": "Politics is a science. You can demonstrate that you are right and that others are wrong.",
+        "author": "Jean-Paul Sartre",
+        "genre": "politics"
+    },
+    {
+        "quote": "To know yet to think that one does not know is best Not to know yet to think that one knows will lead to difficulty.",
+        "author": "Lao Tzu",
+        "genre": "best"
+    },
+    {
+        "quote": "With my talent, I can make people laugh and give them another attitude about life. What a blessing that is for me.",
+        "author": "Doris Roberts",
+        "genre": "attitude"
+    },
+    {
+        "quote": "The secret of a successful marriage is not to be at home too much.",
+        "author": "Colin Chapman",
+        "genre": "home"
+    },
+    {
+        "quote": "All I can do is leave it in God's hands and hope that my fans feel where I'm coming from.",
+        "author": "Aaliyah",
+        "genre": "hope"
+    },
+    {
+        "quote": "I think everyone dreams of that nice romantic wedding.",
+        "author": "Lance Bass",
+        "genre": "wedding"
+    },
+    {
+        "quote": "The success and the failure are not my concern, but His.",
+        "author": "Joseph Barber Lightfoot",
+        "genre": "failure"
+    },
+    {
+        "quote": "There are moments when all anxiety and stated toil are becalmed in the infinite leisure and repose of nature.",
+        "author": "Henry David Thoreau",
+        "genre": "nature"
+    },
+    {
+        "quote": "Prestige is the shadow of money and power.",
+        "author": "C. Wright Mills",
+        "genre": "power"
+    },
+    {
+        "quote": "Conquest is not in our principles. It is inconsistent with our government.",
+        "author": "Thomas Jefferson",
+        "genre": "government"
+    },
+    {
+        "quote": "God writes a lot of comedy... the trouble is, he's stuck with so many bad actors who don't know how to play funny.",
+        "author": "Garrison Keillor",
+        "genre": "funny"
+    },
+    {
+        "quote": "I've been dating since I was fifteen. I'm exhausted. Where is he?",
+        "author": "Kristin Davis",
+        "genre": "dating"
+    },
+    {
+        "quote": "My whole life has been movies and religion. That's it. Nothing else.",
+        "author": "Martin Scorsese",
+        "genre": "movies"
+    },
+    {
+        "quote": "Mere goodness can achieve little against the power of nature.",
+        "author": "Georg Wilhelm Friedrich Hegel",
+        "genre": "power"
+    },
+    {
+        "quote": "To have a great idea, have a lot of them.",
+        "author": "Thomas A. Edison",
+        "genre": "great"
+    },
+    {
+        "quote": "You can't get much done in life if you only work on the days when you feel good.",
+        "author": "Jerry West",
+        "genre": "work"
+    },
+    {
+        "quote": "I think the greatest amount of pressure is the pressure I place on myself. So in a way I chose to be alone.",
+        "author": "Cathy Freeman",
+        "genre": "alone"
+    },
+    {
+        "quote": "I like fantasy. I like horror, science fiction because I can get avant-garde with those performances in those movies.",
+        "author": "Nicolas Cage",
+        "genre": "science"
+    },
+    {
+        "quote": "Laughter is the closest thing to the grace of God.",
+        "author": "Karl Barth",
+        "genre": "god"
+    },
+    {
+        "quote": "Truth be told, ginormous portions have become a pet peeve of mine.",
+        "author": "Hal Sparks",
+        "genre": "pet"
+    },
+    {
+        "quote": "It is an unfortunate fact that we can secure peace only by preparing for war.",
+        "author": "John F. Kennedy",
+        "genre": "peace"
+    },
+    {
+        "quote": "At each increase of knowledge, as well as on the contrivance of every new tool, human labour becomes abridged.",
+        "author": "Charles Babbage",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "The key to success is to keep growing in all areas of life - mental, emotional, spiritual, as well as physical.",
+        "author": "Julius Erving",
+        "genre": "life"
+    },
+    {
+        "quote": "The wisdom of the wise, and the experience of ages, may be preserved by quotation.",
+        "author": "Isaac D'Israeli",
+        "genre": "experience"
+    },
+    {
+        "quote": "My whole life had been designing computers I could never build.",
+        "author": "Steve Wozniak",
+        "genre": "computers"
+    },
+    {
+        "quote": "Death comes in a flash, and that's the truth of it, the person's gone in less than 24 frames of film.",
+        "author": "Martin Scorsese",
+        "genre": "death"
+    },
+    {
+        "quote": "First, I think the science of monetary economics has clearly gotten better.",
+        "author": "Martin Feldstein",
+        "genre": "science"
+    },
+    {
+        "quote": "Men often act knowingly against their interest.",
+        "author": "David Hume",
+        "genre": "men"
+    },
+    {
+        "quote": "Actually, if I don't eat healthy food I don't feel good. For me, I crave healthy food.",
+        "author": "Kristin Cavallari",
+        "genre": "food"
+    },
+    {
+        "quote": "I do like to move and get physical in my movies.",
+        "author": "Nicolas Cage",
+        "genre": "movies"
+    },
+    {
+        "quote": "In two days, it's hard to to get the quality you would normally want for a design project.",
+        "author": "Douglas Wilson",
+        "genre": "design"
+    },
+    {
+        "quote": "The architecture of a story can be a little bit different if it's a true story.",
+        "author": "Joel Coen",
+        "genre": "architecture"
+    },
+    {
+        "quote": "Patience is the art of hoping.",
+        "author": "Luc de Clapiers",
+        "genre": "patience"
+    },
+    {
+        "quote": "Walking is the best possible exercise. Habituate yourself to walk very fast.",
+        "author": "Thomas Jefferson",
+        "genre": "best"
+    },
+    {
+        "quote": "The pace of technological change in recent years has been both impressive and positive for consumers.",
+        "author": "Mike Ferguson",
+        "genre": "positive"
+    },
+    {
+        "quote": "The best scientist is open to experience and begins with romance - the idea that anything is possible.",
+        "author": "Ray Bradbury",
+        "genre": "best"
+    },
+    {
+        "quote": "A minute's success pays the failure of years.",
+        "author": "Robert Browning",
+        "genre": "failure"
+    },
+    {
+        "quote": "There weren't any astronauts until I was about 10. Yuri Gagarin went into space right around my 10th birthday.",
+        "author": "John L. Phillips",
+        "genre": "birthday"
+    },
+    {
+        "quote": "The subject matter of the stories on the surface... there seem to be a number of stories about travel.",
+        "author": "Kenneth Koch",
+        "genre": "travel"
+    },
+    {
+        "quote": "Problems are only opportunities in work clothes.",
+        "author": "Henry J. Kaiser",
+        "genre": "leadership"
+    },
+    {
+        "quote": "Faith: Belief without evidence in what is told by one who speaks without knowledge, of things without parallel.",
+        "author": "Ambrose Bierce",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "Almost certainly, however, the first essential component of social justice is adequate food for all mankind.",
+        "author": "Norman Borlaug",
+        "genre": "food"
+    },
+    {
+        "quote": "One reason the human race has such a low opinion of itself is that it gets so much of its wisdom from writers.",
+        "author": "Wilfrid Sheed",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "My house is my refuge, an emotional piece of architecture, not a cold piece of convenience.",
+        "author": "Luis Barragan",
+        "genre": "architecture"
+    },
+    {
+        "quote": "I've had enough boyfriends and enough issues. I'd seen enough train wrecks.",
+        "author": "Taylor Dayne",
+        "genre": "dating"
+    },
+    {
+        "quote": "Our poverty will be brought home to us to its full extent only after the war.",
+        "author": "Joseph A. Schumpeter",
+        "genre": "home"
+    },
+    {
+        "quote": "Don't let people disrespect you. My mom says don't open the door to the devil. Surround yourself with positive people.",
+        "author": "Cuba Gooding, Jr.",
+        "genre": "mom"
+    },
+    {
+        "quote": "Laughter is not a bad beginning for a friendship, and it is the best ending for one.",
+        "author": "Henry Ward Beecher",
+        "genre": "best"
+    },
+    {
+        "quote": "The aim of a college education is to teach you to know a good man when you see one.",
+        "author": "William James",
+        "genre": "good"
+    },
+    {
+        "quote": "My dad was Jewish. My mom is not. So I was not raised anything.",
+        "author": "Matt Lauer",
+        "genre": "mom"
+    },
+    {
+        "quote": "Respect for right conduct is felt by every body.",
+        "author": "Jane Austen",
+        "genre": "respect"
+    },
+    {
+        "quote": "The thing that's changed the most has just been the rapid technology.",
+        "author": "Jeffrey Katzenberg",
+        "genre": "technology"
+    },
+    {
+        "quote": "Most actors want to sink their teeth into amazing material.",
+        "author": "Emmanuelle Chriqui",
+        "genre": "amazing"
+    },
+    {
+        "quote": "My formula for success is rise early, work late, and strike oil.",
+        "author": "Paul Getty",
+        "genre": "success"
+    },
+    {
+        "quote": "Victims always feel alone and helpless.",
+        "author": "Deepak Chopra",
+        "genre": "alone"
+    },
+    {
+        "quote": "I'd like to do a lot of things - whether in design or architecture or business.",
+        "author": "Caroline Wozniacki",
+        "genre": "design"
+    },
+    {
+        "quote": "I love that feeling of being in love, the effect of having butterflies when you wake up in the morning. That is special.",
+        "author": "Jennifer Aniston",
+        "genre": "morning"
+    },
+    {
+        "quote": "The beautiful seems right by force of beauty and the feeble wrong because of weakness.",
+        "author": "Elizabeth Barrett Browning",
+        "genre": "beauty"
+    },
+    {
+        "quote": "If you do not change direction, you may end up where you are heading.",
+        "author": "Lao Tzu",
+        "genre": "change"
+    },
+    {
+        "quote": "I like messing around, and I like working with artists who I respect.",
+        "author": "Shia LaBeouf",
+        "genre": "respect"
+    },
+    {
+        "quote": "Most people treat the office manual the way they treat a software manual. They never look at it.",
+        "author": "James Levine",
+        "genre": "work"
+    },
+    {
+        "quote": "I had sadness for breakfast.",
+        "author": "Andy Milonakis",
+        "genre": "sad"
+    },
+    {
+        "quote": "Perpetual devotion to what a man calls his business is only to be sustained by perpetual neglect of many other things.",
+        "author": "Robert Louis Stevenson",
+        "genre": "business"
+    },
+    {
+        "quote": "Maybe all one can do is hope to end up with the right regrets.",
+        "author": "Arthur Miller",
+        "genre": "life"
+    },
+    {
+        "quote": "The government is tottering. We must deal it the death blow an any cost. To delay action is the same as death.",
+        "author": "Vladimir Lenin",
+        "genre": "death"
+    },
+    {
+        "quote": "DOS is ugly and interferes with users' experience.",
+        "author": "Bill Gates",
+        "genre": "experience"
+    },
+    {
+        "quote": "Patrick Henry did not say, 'Give me absolutely safety or give me death.' America is supposed to be about freedom.",
+        "author": "John Stossel",
+        "genre": "death"
+    },
+    {
+        "quote": "In Hollywood a marriage is a success if it outlasts milk.",
+        "author": "Rita Rudner",
+        "genre": "marriage"
+    },
+    {
+        "quote": "Trust in what you love, continue to do it, and it will take you where you need to go.",
+        "author": "Natalie Goldberg",
+        "genre": "trust"
+    },
+    {
+        "quote": "To succeed in business, to reach the top, an individual must know all it is possible to know about that business.",
+        "author": "J. Paul Getty",
+        "genre": "business"
+    },
+    {
+        "quote": "Diligence is the mother of good fortune.",
+        "author": "Benjamin Disraeli",
+        "genre": "success"
+    },
+    {
+        "quote": "I am interested in computers and technology, and art, photography, and design.",
+        "author": "William Landay",
+        "genre": "design"
+    },
+    {
+        "quote": "The man of science has learned to believe in justification, not by faith, but by verification.",
+        "author": "Thomas Huxley",
+        "genre": "science"
+    },
+    {
+        "quote": "Let the gentle bush dig its root deep and spread upward to split the boulder.",
+        "author": "Carl Sandburg",
+        "genre": "nature"
+    },
+    {
+        "quote": "I grew up playing music and enjoying good food, friends and family in my own backyard.",
+        "author": "Rodney Atkins",
+        "genre": "food"
+    },
+    {
+        "quote": "I don't consider Americans bullies, but I do consider the American government bullying.",
+        "author": "George Michael",
+        "genre": "government"
+    },
+    {
+        "quote": "Science, for hundreds of years, has spanned the differences between cultures and between countries.",
+        "author": "Laurel Clark",
+        "genre": "science"
+    },
+    {
+        "quote": "Study nature, love nature, stay close to nature. It will never fail you.",
+        "author": "Frank Lloyd Wright",
+        "genre": "nature"
+    },
+    {
+        "quote": "My childhood, I would say, was a bit sad.",
+        "author": "Columba Bush",
+        "genre": "sad"
+    },
+    {
+        "quote": "When the body of the people is possessed of the supreme power, it is called a democracy.",
+        "author": "Charles de Secondat",
+        "genre": "politics"
+    },
+    {
+        "quote": "Religion is an illusion and it derives its strength from the fact that it falls in with our instinctual desires.",
+        "author": "Sigmund Freud",
+        "genre": "strength"
+    },
+    {
+        "quote": "The sum of wisdom is that time is never lost that is devoted to work.",
+        "author": "Ralph Waldo Emerson",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "You realize that for all the shenanigans that go on in the big circus of politics, everybody wakes up and goes to work.",
+        "author": "Lewis Black",
+        "genre": "politics"
+    },
+    {
+        "quote": "Great things are done when men and mountains meet.",
+        "author": "William Blake",
+        "genre": "men"
+    },
+    {
+        "quote": "After two weeks of working on a project, you know whether it will work or not.",
+        "author": "Bill Budge",
+        "genre": "work"
+    },
+    {
+        "quote": "Most of my life I have played a lot of famous people but most of them were dead so you have a poetic license.",
+        "author": "Christopher Plummer",
+        "genre": "famous"
+    },
+    {
+        "quote": "Success listens only to applause. To all else it is deaf.",
+        "author": "Elias Canetti",
+        "genre": "success"
+    },
+    {
+        "quote": "I live alone, with cats, books, pictures, fresh vegetables to cook, the garden, the hens to feed.",
+        "author": "Jeanette Winterson",
+        "genre": "alone"
+    },
+    {
+        "quote": "All men who have achieved great things have been great dreamers.",
+        "author": "Orison Swett Marden",
+        "genre": "men"
+    },
+    {
+        "quote": "We have art in order not to die of the truth.",
+        "author": "Friedrich Nietzsche",
+        "genre": "truth"
+    },
+    {
+        "quote": "Art is vice. You don't marry it legitimately, you rape it.",
+        "author": "Edgar Degas",
+        "genre": "art"
+    },
+    {
+        "quote": "The truth is I had lots of rehab and now I have a clean bill of health.",
+        "author": "Samantha Morton",
+        "genre": "health"
+    },
+    {
+        "quote": "I live to hail that season by gifted one foretold, when men shall live by reason, and not alone by gold.",
+        "author": "George Linnaeus Banks",
+        "genre": "alone"
+    },
+    {
+        "quote": "When the power of love overcomes the love of power the world will know peace.",
+        "author": "Jimi Hendrix",
+        "genre": "love"
+    },
+    {
+        "quote": "I know I'm not supposed to have any opinions about politics, because I'm famous.",
+        "author": "Cher",
+        "genre": "famous"
+    },
+    {
+        "quote": "I was a great student at a great school, Wharton School of Finance.",
+        "author": "Donald Trump",
+        "genre": "finance"
+    },
+    {
+        "quote": "Even under the best of circumstances, the road back from war is difficult.",
+        "author": "Ron Wyden",
+        "genre": "war"
+    },
+    {
+        "quote": "Everything is tennis for me, it's my career and it's entertainment, but it's also a business.",
+        "author": "Venus Williams",
+        "genre": "business"
+    },
+    {
+        "quote": "I don't make jokes. I just watch the government and report the facts.",
+        "author": "Will Rogers",
+        "genre": "government"
+    },
+    {
+        "quote": "I have ways of making money that you know nothing of.",
+        "author": "John D. Rockefeller",
+        "genre": "money"
+    },
+    {
+        "quote": "I had been found in a mud puddle at 4:30 in the morning.",
+        "author": "Lance Loud",
+        "genre": "morning"
+    },
+    {
+        "quote": "I can sit in front of the TV and watch an old romantic film and be transfixed.",
+        "author": "Amber Heard",
+        "genre": "romantic"
+    },
+    {
+        "quote": "I define nothing. Not beauty, not patriotism. I take each thing as it is, without prior rules about what it should be.",
+        "author": "Bob Dylan",
+        "genre": "beauty"
+    },
+    {
+        "quote": "Artists are going to be the metronome of this society.",
+        "author": "Yoko Ono",
+        "genre": "society"
+    },
+    {
+        "quote": "It is no measure of health to be well adjusted to a profoundly sick society.",
+        "author": "Jiddu Krishnamurti",
+        "genre": "health"
+    },
+    {
+        "quote": "Every individual has a place to fill in the world and is important in some respect whether he chooses to be so or not.",
+        "author": "Nathaniel Hawthorne",
+        "genre": "respect"
+    },
+    {
+        "quote": "Never put a sock in a toaster.",
+        "author": "Eddie Izzard",
+        "genre": "funny"
+    },
+    {
+        "quote": "I get all fired up about aging in America.",
+        "author": "Willard Scott",
+        "genre": "age"
+    },
+    {
+        "quote": "Life is as tedious as twice-told tale, vexing the dull ear of a drowsy man.",
+        "author": "William Shakespeare",
+        "genre": "life"
+    },
+    {
+        "quote": "To me, anyone with an Australian accent wielding a tennis racket is cool.",
+        "author": "Adrian Smith",
+        "genre": "cool"
+    },
+    {
+        "quote": "The greatest tragedy in mankind's entire history may be the hijacking of morality by religion.",
+        "author": "Arthur C. Clarke",
+        "genre": "history"
+    },
+    {
+        "quote": "You can't legislate good will - that comes through education.",
+        "author": "Malcolm X",
+        "genre": "education"
+    },
+    {
+        "quote": "Make measurable progress in reasonable time.",
+        "author": "Jim Rohn",
+        "genre": "time"
+    },
+    {
+        "quote": "Leadership is practiced not so much in words as in attitude and in actions.",
+        "author": "Harold S. Geneen",
+        "genre": "leadership"
+    },
+    {
+        "quote": "Good communication is as stimulating as black coffee, and just as hard.",
+        "author": "Anne Spencer",
+        "genre": "communication"
+    },
+    {
+        "quote": "Peace is a journey of a thousand miles and it must be taken one step at a time.",
+        "author": "Lyndon B. Johnson",
+        "genre": "time"
+    },
+    {
+        "quote": "When traveling with someone, take large does of patience and tolerance with your morning coffee.",
+        "author": "Helen Hayes",
+        "genre": "patience"
+    },
+    {
+        "quote": "Government's first duty and highest obligation is public safety.",
+        "author": "Arnold Schwarzenegger",
+        "genre": "government"
+    },
+    {
+        "quote": "The supreme happiness of life is the conviction that we are loved loved for ourselves, or rather in spite of ourselves.",
+        "author": "Victor Hugo",
+        "genre": "happiness"
+    },
+    {
+        "quote": "Money won is twice as sweet as money earned.",
+        "author": "Paul Newman",
+        "genre": "money"
+    },
+    {
+        "quote": "Remember, the burden of sorrow is doubled when it is borne alone.",
+        "author": "Goran Persson",
+        "genre": "alone"
+    },
+    {
+        "quote": "Enjoy your sweat because hard work doesn't guarantee success, but without it you don't have a chance.",
+        "author": "Alex Rodriguez",
+        "genre": "success"
+    },
+    {
+        "quote": "We can grow crops less expensively because molecular manufacturing technology is inherently low cost.",
+        "author": "Ralph Merkle",
+        "genre": "technology"
+    },
+    {
+        "quote": "The only thing growing faster than the federal government's deficit is Chris Matthews' man-crush on Barack Obama.",
+        "author": "Tim Pawlenty",
+        "genre": "government"
+    },
+    {
+        "quote": "There is no such thing as society: there are individual men and women, and there are families.",
+        "author": "Margaret Thatcher",
+        "genre": "women"
+    },
+    {
+        "quote": "Ignorance of the law excuses no man from practicing it.",
+        "author": "Addison Mizner",
+        "genre": "legal"
+    },
+    {
+        "quote": "One never reaches home, but wherever friendly paths intersect the whole world looks like home for a time.",
+        "author": "Hermann Hesse",
+        "genre": "home"
+    },
+    {
+        "quote": "We all love musical architecture there's no doubt about that.",
+        "author": "Levon Helm",
+        "genre": "architecture"
+    },
+    {
+        "quote": "If you want to be thought a liar, always tell the truth.",
+        "author": "Logan P. Smith",
+        "genre": "funny"
+    },
+    {
+        "quote": "My dad named me Dakota and my mom came up with my first name Hannah. So it's Hannah Dakota Fanning.",
+        "author": "Dakota Fanning",
+        "genre": "dad"
+    },
+    {
+        "quote": "A really great talent finds its happiness in execution.",
+        "author": "Johann Wolfgang von Goethe",
+        "genre": "great"
+    },
+    {
+        "quote": "Poor Georgia O'Keeffe. Death didn't soften the opinions of the art world toward her paintings.",
+        "author": "Jerry Saltz",
+        "genre": "death"
+    },
+    {
+        "quote": "I decided that if I could paint that flower in a huge scale, you could not ignore its beauty.",
+        "author": "Georgia O'Keeffe",
+        "genre": "beauty"
+    },
+    {
+        "quote": "I've given it my all. I've done my best. Now, I'm ready with my family to begin the next phase of our lives.",
+        "author": "Richard M. Daley",
+        "genre": "best"
+    },
+    {
+        "quote": "My sister, she's amazing. She sort of inspired me to take this journey to Latin America.",
+        "author": "Jenna Bush",
+        "genre": "amazing"
+    },
+    {
+        "quote": "If a dog will not come to you after having looked you in the face, you should go home and examine your conscience.",
+        "author": "Woodrow Wilson",
+        "genre": "home"
+    },
+    {
+        "quote": "You know, I've got wrinkles on my forehead and smile lines, but what's wrong with that? I love to smile.",
+        "author": "Jennifer Aniston",
+        "genre": "smile"
+    },
+    {
+        "quote": "More people are reading poetry now than at any time in the history of the human race.",
+        "author": "Andrew Motion",
+        "genre": "poetry"
+    },
+    {
+        "quote": "There are two means of refuge from the miseries of life: music and cats.",
+        "author": "Albert Schweitzer",
+        "genre": "life"
+    },
+    {
+        "quote": "I race to win. If I am on the bike or in a car it will always be the same.",
+        "author": "Valentino Rossi",
+        "genre": "car"
+    },
+    {
+        "quote": "I've never been interested in action movies. Definitely not interested in sci-fi.",
+        "author": "Carrie-Anne Moss",
+        "genre": "movies"
+    },
+    {
+        "quote": "I'm a very romantic and passionate guy.",
+        "author": "Diego Boneta",
+        "genre": "romantic"
+    },
+    {
+        "quote": "Home, nowadays, is a place where part of the family waits till the rest of the family brings the car back.",
+        "author": "Earl Wilson",
+        "genre": "car"
+    },
+    {
+        "quote": "I always like to watch comics and it's interesting that you can tell if someone's funny in 10 seconds.",
+        "author": "Christopher Walken",
+        "genre": "funny"
+    },
+    {
+        "quote": "Character is the ability to carry out a good resolution long after the excitement of the moment has passed.",
+        "author": "Cavett Robert",
+        "genre": "newyears"
+    },
+    {
+        "quote": "Wars and elections are both too big and too small to matter in the long run. The daily work - that goes on, it adds up.",
+        "author": "Barbara Kingsolver",
+        "genre": "work"
+    },
+    {
+        "quote": "I'd say it's been my biggest problem all my life... it's money. It takes a lot of money to make these dreams come true.",
+        "author": "Walt Disney",
+        "genre": "dreams"
+    },
+    {
+        "quote": "You can lead a man to Congress, but you can't make him think.",
+        "author": "Milton Berle",
+        "genre": "funny"
+    },
+    {
+        "quote": "I'm not looking to lose anything. I'm looking to continue making movies.",
+        "author": "Johnny Knoxville",
+        "genre": "movies"
+    },
+    {
+        "quote": "Lyrics are the only thing to do with music that haven't been made easier technically.",
+        "author": "Brian Eno",
+        "genre": "music"
+    },
+    {
+        "quote": "Though we travel the world over to find the beautiful, we must carry it with us or we find it not.",
+        "author": "Ralph Waldo Emerson",
+        "genre": "travel"
+    },
+    {
+        "quote": "There is no friendship, no love, like that of the parent for the child.",
+        "author": "Henry Ward Beecher",
+        "genre": "love"
+    },
+    {
+        "quote": "I'm such a good lover because I practice a lot on my own.",
+        "author": "Woody Allen",
+        "genre": "good"
+    },
+    {
+        "quote": "In my 50s I'll be dancing at my children's weddings.",
+        "author": "Michael J. Fox",
+        "genre": "wedding"
+    },
+    {
+        "quote": "A thing of beauty is a joy forever: its loveliness increases it will never pass into nothingness.",
+        "author": "John Keats",
+        "genre": "beauty"
+    },
+    {
+        "quote": "Love is not a feeling of happiness. Love is a willingness to sacrifice.",
+        "author": "Michael Novak",
+        "genre": "happiness"
+    },
+    {
+        "quote": "Our prime purpose in this life is to help others. And if you can't help them, at least don't hurt them.",
+        "author": "Dalai Lama",
+        "genre": "life"
+    },
+    {
+        "quote": "All great truths begin as blasphemies.",
+        "author": "George Bernard Shaw",
+        "genre": "great"
+    },
+    {
+        "quote": "Dreams get you into the future and add excitement to the present.",
+        "author": "Robert Conklin",
+        "genre": "future"
+    },
+    {
+        "quote": "How old would you be if you didn't know how old you are?",
+        "author": "Satchel Paige",
+        "genre": "birthday"
+    },
+    {
+        "quote": "We would not have our politics distracted and embittered by the dissensions of other lands.",
+        "author": "Henry Cabot Lodge",
+        "genre": "politics"
+    },
+    {
+        "quote": "Photography is truth. The cinema is truth twenty-four times per second.",
+        "author": "Jean-Luc Godard",
+        "genre": "truth"
+    },
+    {
+        "quote": "Cynicism is humor in ill health.",
+        "author": "H. G. Wells",
+        "genre": "health"
+    },
+    {
+        "quote": "I believe fundamental honesty is the keystone of business.",
+        "author": "Harvey S. Firestone",
+        "genre": "business"
+    },
+    {
+        "quote": "The Cold War was over long before it was officially declared dead.",
+        "author": "John le Carre",
+        "genre": "war"
+    },
+    {
+        "quote": "God wants us to prosper financially, to have plenty of money, to fulfill the destiny He has laid out for us.",
+        "author": "Joel Osteen",
+        "genre": "future"
+    },
+    {
+        "quote": "I grew up watching Steven Spielberg and scary movies.",
+        "author": "M. Night Shyamalan",
+        "genre": "movies"
+    },
+    {
+        "quote": "Old age is the verdict of life.",
+        "author": "Amelia Barr",
+        "genre": "age"
+    },
+    {
+        "quote": "We're not raising children with the love that we need to.",
+        "author": "Bill Cosby",
+        "genre": "love"
+    },
+    {
+        "quote": "I hated the royal wedding.",
+        "author": "Steven Patrick Morrissey",
+        "genre": "wedding"
+    },
+    {
+        "quote": "Chance is perhaps the pseudonym of God when he did not want to sign.",
+        "author": "Anatole France",
+        "genre": "god"
+    },
+    {
+        "quote": "Blessed is he who has found his work let him ask no other blessedness.",
+        "author": "Thomas Carlyle",
+        "genre": "business"
+    },
+    {
+        "quote": "Of life's two chief prizes, beauty and truth, I found the first in a loving heart and the second in a laborer's hand.",
+        "author": "Khalil Gibran",
+        "genre": "beauty"
+    },
+    {
+        "quote": "To those of you who are wearing ties, I think my dad would appreciate it if you took them off.",
+        "author": "Robert Moog",
+        "genre": "dad"
+    },
+    {
+        "quote": "My reading of history convinces me that most bad government results from too much government.",
+        "author": "Thomas Jefferson",
+        "genre": "government"
+    },
+    {
+        "quote": "Don't find fault, find a remedy.",
+        "author": "Henry Ford",
+        "genre": "leadership"
+    },
+    {
+        "quote": "The only politics in this country that's relevant to black people today is the politics of revolution... none other.",
+        "author": "H. Rap Brown",
+        "genre": "politics"
+    },
+    {
+        "quote": "The years teach much which the days never know.",
+        "author": "Ralph Waldo Emerson",
+        "genre": "experience"
+    },
+    {
+        "quote": "I love making Italian food. And coconut chicken.",
+        "author": "Joe Jonas",
+        "genre": "food"
+    },
+    {
+        "quote": "I would hope that understanding and reconciliation are not limited to the 19th hole alone.",
+        "author": "Gerald R. Ford",
+        "genre": "alone"
+    },
+    {
+        "quote": "I am in politics because of the conflict between good and evil, and I believe that in the end good will triumph.",
+        "author": "Margaret Thatcher",
+        "genre": "good"
+    },
+    {
+        "quote": "Success isn't a result of spontaneous combustion. You must set yourself on fire.",
+        "author": "Arnold H. Glasow",
+        "genre": "success"
+    },
+    {
+        "quote": "The art of art, the glory of expression and the sunshine of the light of letters, is simplicity.",
+        "author": "Walt Whitman",
+        "genre": "art"
+    },
+    {
+        "quote": "In this business you have to develop a thick skin, but I'm always going to feel everything. It's my nature.",
+        "author": "Taylor Swift",
+        "genre": "nature"
+    },
+    {
+        "quote": "If you see a black family, it's looting, but if it's a white family they are looking for food.",
+        "author": "Kanye West",
+        "genre": "family"
+    },
+    {
+        "quote": "A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.",
+        "author": "Isaac Asimov",
+        "genre": "great"
+    },
+    {
+        "quote": "Develop a passion for learning. If you do, you will never cease to grow.",
+        "author": "Anthony J. D'Angelo",
+        "genre": "education"
+    },
+    {
+        "quote": "I was really lucky. My gal pal was my mom.",
+        "author": "Ana Ortiz",
+        "genre": "mom"
+    },
+    {
+        "quote": "In our home there was always prayer - aloud, proud and unapologetic.",
+        "author": "Lyndon B. Johnson",
+        "genre": "home"
+    },
+    {
+        "quote": "I want you to remember when our White House reflected the best of who we are, not the worst of what Europe has become.",
+        "author": "Mitt Romney",
+        "genre": "best"
+    },
+    {
+        "quote": "Much that passes as idealism is disguised hatred or disguised love of power.",
+        "author": "Bertrand Russell",
+        "genre": "power"
+    },
+    {
+        "quote": "If you work at comedy too laboriously, you can kill what's funny in the joke.",
+        "author": "Richard Russo",
+        "genre": "funny"
+    },
+    {
+        "quote": "He who has a why to live can bear almost any how.",
+        "author": "Friedrich Nietzsche",
+        "genre": "life"
+    },
+    {
+        "quote": "In this world nothing can be said to be certain, except death and taxes.",
+        "author": "Benjamin Franklin",
+        "genre": "business"
+    },
+    {
+        "quote": "For most of our history, no one dared to tell Americans, 'you don't build that.'",
+        "author": "Rand Paul",
+        "genre": "history"
+    },
+    {
+        "quote": "Inappropriateness is funny to me. Rudeness is hilarious.",
+        "author": "Zach Galifianakis",
+        "genre": "funny"
+    },
+    {
+        "quote": "We do not consider patriotism desirable if it contradicts civilized behavior.",
+        "author": "Friedrich Durrenmatt",
+        "genre": "patriotism"
+    },
+    {
+        "quote": "I think it is important for people who are given leadership roles to assume that role immediately.",
+        "author": "Bob Iger",
+        "genre": "leadership"
+    },
+    {
+        "quote": "I don't want to be a politician. I don't like politics. It's petty it fights dirty.",
+        "author": "John Mellencamp",
+        "genre": "politics"
+    },
+    {
+        "quote": "Not a single time have we gotten a right from Congress or from the President. We get them from God.",
+        "author": "Glenn Beck",
+        "genre": "god"
+    },
+    {
+        "quote": "True Americanism is opposed utterly to any political divisions resting on race and religion.",
+        "author": "Henry Cabot Lodge",
+        "genre": "religion"
+    },
+    {
+        "quote": "Love is the joy of the good, the wonder of the wise, the amazement of the Gods.",
+        "author": "Plato",
+        "genre": "love"
+    },
+    {
+        "quote": "Where fear is, happiness is not.",
+        "author": "Lucius Annaeus Seneca",
+        "genre": "fear"
+    },
+    {
+        "quote": "Challenge is good for any relationship.",
+        "author": "Darren Criss",
+        "genre": "relationship"
+    },
+    {
+        "quote": "In all our deeds, the proper value and respect for time determines success or failure.",
+        "author": "Malcolm X",
+        "genre": "success"
+    },
+    {
+        "quote": "You'll live. Only the best get killed.",
+        "author": "Charles de Gaulle",
+        "genre": "best"
+    },
+    {
+        "quote": "Truth is always served by great minds, even if they fight it.",
+        "author": "Jean Rostand",
+        "genre": "great"
+    },
+    {
+        "quote": "To live only for some future goal is shallow. It's the sides of the mountain that sustain life, not the top.",
+        "author": "Robert M. Pirsig",
+        "genre": "future"
+    },
+    {
+        "quote": "There is definitely something sexy about a girl with an attitude and a pair of leather pants.",
+        "author": "Eliza Dushku",
+        "genre": "attitude"
+    },
+    {
+        "quote": "Judgements prevent us from seeing the good that lies beyond appearances.",
+        "author": "Wayne Dyer",
+        "genre": "good"
+    },
+    {
+        "quote": "And I trusted someone to look after me on the business side of life.",
+        "author": "Elton John",
+        "genre": "business"
+    },
+    {
+        "quote": "This AIDS stuff is pretty scary. I hope I don't get it.",
+        "author": "Robert Mapplethorpe",
+        "genre": "hope"
+    },
+    {
+        "quote": "Modern society, based as it is on the division of labor, can be preserved only under conditions of lasting peace.",
+        "author": "Ludwig von Mises",
+        "genre": "peace"
+    },
+    {
+        "quote": "What I know about poker, you can fit into a thimble with room left over, but I'm learning.",
+        "author": "Wilford Brimley",
+        "genre": "learning"
+    },
+    {
+        "quote": "Music in the soul can be heard by the universe.",
+        "author": "Lao Tzu",
+        "genre": "music"
+    },
+    {
+        "quote": "I love to write poetry.",
+        "author": "Shayne Ward",
+        "genre": "poetry"
+    },
+    {
+        "quote": "God had one son on earth without sin, but never one without suffering.",
+        "author": "Saint Augustine",
+        "genre": "god"
+    },
+    {
+        "quote": "If all the cars in the United States were placed end to end, it would probably be Labor Day Weekend.",
+        "author": "Doug Larson",
+        "genre": "car"
+    },
+    {
+        "quote": "Maybe it is something to do with age, but I have become fonder of poetry than of prose.",
+        "author": "Aung San Suu Kyi",
+        "genre": "age"
+    },
+    {
+        "quote": "Thanks to television, for the first time the young are seeing history made before it is censored by their elders.",
+        "author": "Margaret Mead",
+        "genre": "time"
+    },
+    {
+        "quote": "Controversy is part of the nature of art and creativity.",
+        "author": "Yoko Ono",
+        "genre": "nature"
+    },
+    {
+        "quote": "We do not learn and what we call learning is only a process of recollection.",
+        "author": "Plato",
+        "genre": "learning"
+    },
+    {
+        "quote": "Great dreams of great dreamers are always transcended.",
+        "author": "Abdul Kalam",
+        "genre": "dreams"
+    },
+    {
+        "quote": "Funny is an attitude.",
+        "author": "Flip Wilson",
+        "genre": "funny"
+    },
+    {
+        "quote": "A discipline I have observed is an attitude of love and reverence to people.",
+        "author": "Bessie Head",
+        "genre": "attitude"
+    },
+    {
+        "quote": "People drain me, even the closest of friends, and I find loneliness to be the best state in the union to live in.",
+        "author": "Margaret Cho",
+        "genre": "best"
+    },
+    {
+        "quote": "When you do the common things in life in an uncommon way, you will command the attention of the world.",
+        "author": "George Washington Carver",
+        "genre": "life"
+    },
+    {
+        "quote": "Christmas, my child, is love in action. Every time we love, every time we give, it's Christmas.",
+        "author": "Dale Evans",
+        "genre": "christmas"
+    },
+    {
+        "quote": "I don't get anything for free. I pay for all my beauty treatments.",
+        "author": "Jennifer Lopez",
+        "genre": "beauty"
+    },
+    {
+        "quote": "My dad always told me that the best way to get somebody to get at you is to talk bad about them to somebody else.",
+        "author": "T-Pain",
+        "genre": "dad"
+    },
+    {
+        "quote": "It has been said that 80% of what people learn is visual.",
+        "author": "Allen Klein",
+        "genre": "education"
+    },
+    {
+        "quote": "When people see your personality come out, they feel so good, like they actually know who you are.",
+        "author": "Usain Bolt",
+        "genre": "good"
+    },
+    {
+        "quote": "The goal of all life is death.",
+        "author": "Sigmund Freud",
+        "genre": "death"
+    },
+    {
+        "quote": "Women love to be called cruel, even when they are kindest.",
+        "author": "Samuel Richardson",
+        "genre": "women"
+    },
+    {
+        "quote": "The toddler must say no in order to find out who she is. The adolescent says no to assert who she is not.",
+        "author": "Louise J. Kaplan",
+        "genre": "teen"
+    },
+    {
+        "quote": "I grew up in a very old-fashioned Roman Catholic, Italian-Irish family in Philly.",
+        "author": "Bradley Cooper",
+        "genre": "family"
+    },
+    {
+        "quote": "I could pose in fashion commercials as a high society star but politics is a new way of life.",
+        "author": "Marat Safin",
+        "genre": "society"
+    },
+    {
+        "quote": "The family wage has been eroded by the same developments that have promoted consumerism as a way of life.",
+        "author": "Christopher Lasch",
+        "genre": "family"
+    },
+    {
+        "quote": "That was excellent! I mean, it didn't do anything, but it looked really cool!",
+        "author": "Adam Savage",
+        "genre": "cool"
+    },
+    {
+        "quote": "I have lived to thank God that all my prayers have not been answered.",
+        "author": "Jean Ingelow",
+        "genre": "god"
+    },
+    {
+        "quote": "Show respect to all people, but grovel to none.",
+        "author": "Tecumseh",
+        "genre": "respect"
+    },
+    {
+        "quote": "But I don't necessarily define my faith by going to church every Sunday.",
+        "author": "Miley Cyrus",
+        "genre": "faith"
+    },
+    {
+        "quote": "For me, being tall was very positive because I thought my mom was the most beautiful person ever.",
+        "author": "Lisa Leslie",
+        "genre": "mom"
+    },
+    {
+        "quote": "Doctrines provide an architecture for both Republican and Democrat presidents to carry out policies.",
+        "author": "Malcolm Wallop",
+        "genre": "architecture"
+    },
+    {
+        "quote": "I've been a teacher at the college level, in composition mostly, and I've been an editor on magazines.",
+        "author": "Jane Haddam",
+        "genre": "teacher"
+    },
+    {
+        "quote": "The man who is swimming against the stream knows the strength of it.",
+        "author": "Woodrow Wilson",
+        "genre": "history"
+    },
+    {
+        "quote": "A woman seldom asks advice before she has bought her wedding clothes.",
+        "author": "Joseph Addison",
+        "genre": "wedding"
+    },
+    {
+        "quote": "Intelligence is the ability to adapt to change.",
+        "author": "Stephen Hawking",
+        "genre": "intelligence"
+    },
+    {
+        "quote": "Spend some time this weekend on home improvement improve your attitude toward your family.",
+        "author": "Bo Bennett",
+        "genre": "home"
+    },
+    {
+        "quote": "I was a postman one Christmas and I developed a morbid fear of dogs.",
+        "author": "Diane Abbott",
+        "genre": "fear"
+    },
+    {
+        "quote": "With enough courage, you can do without a reputation.",
+        "author": "Margaret Mitchell",
+        "genre": "courage"
+    },
+    {
+        "quote": "It's a good thing I was born a girl, otherwise I'd be a drag queen.",
+        "author": "Dolly Parton",
+        "genre": "good"
+    },
+    {
+        "quote": "I am not afraid to say my relationship with my man is important, even vital, to who I am as a person.",
+        "author": "Mika Brzezinski",
+        "genre": "relationship"
+    },
+    {
+        "quote": "I hooked up my accelerator pedal in my car to my brake lights. I hit the gas, people behind me stop, and I'm gone.",
+        "author": "Steven Wright",
+        "genre": "car"
+    },
+    {
+        "quote": "The judicial system is the most expensive machine ever invented for finding out what happened and what to do about it.",
+        "author": "Irving R. Kaufman",
+        "genre": "history"
+    },
+    {
+        "quote": "For me, if I can design beautiful things that have the price be lower, I am thrilled.",
+        "author": "Tory Burch",
+        "genre": "design"
+    },
+    {
+        "quote": "The time has come to tell the truth about the corruption of the government employee unions in this country.",
+        "author": "Newt Gingrich",
+        "genre": "truth"
+    },
+    {
+        "quote": "The best men of the best epochs are simply those who make the fewest blunders and commit the fewest sins.",
+        "author": "Thomas Huxley",
+        "genre": "best"
+    },
+    {
+        "quote": "Life is an exciting business, and most exciting when it is lived for others.",
+        "author": "Helen Keller",
+        "genre": "life"
+    },
+    {
+        "quote": "It's just as idiotic to say there is no life after death as it is to say there is one.",
+        "author": "Jeanne Moreau",
+        "genre": "death"
+    },
+    {
+        "quote": "If one does not know to which port one is sailing, no wind is favorable.",
+        "author": "Lucius Annaeus Seneca",
+        "genre": "business"
+    },
+    {
+        "quote": "It often takes more courage to change one's opinion than to keep it.",
+        "author": "Willy Brandt",
+        "genre": "courage"
+    },
+    {
+        "quote": "Geographically, Ireland is a medium-sized rural island that is slowly but steadily being consumed by sheep.",
+        "author": "Dave Barry",
+        "genre": "saintpatricksday"
+    },
+    {
+        "quote": "We could never learn to be brave and patient, if there were only joy in the world.",
+        "author": "Helen Keller",
+        "genre": "patience"
+    },
+    {
+        "quote": "Time is not measured by the passing of years but by what one does, what one feels, and what one achieves.",
+        "author": "Jawaharlal Nehru",
+        "genre": "time"
+    },
+    {
+        "quote": "The William Penn Hotel in Pittsburgh... was the place where Champagne Music was born.",
+        "author": "Lawrence Welk",
+        "genre": "music"
+    },
+    {
+        "quote": "One lion thinks it's just hilarious to tackle us. He's very funny about it... and we always know when it will happen.",
+        "author": "Tippi Hedren",
+        "genre": "funny"
+    },
+    {
+        "quote": "I just do what I do. I like to make music.",
+        "author": "Neil Young",
+        "genre": "music"
+    },
+    {
+        "quote": "I write when I'm inspired, and I see to it that I'm inspired at nine o'clock every morning.",
+        "author": "Peter De Vries",
+        "genre": "morning"
+    },
+    {
+        "quote": "Success produces confidence confidence relaxes industry, and negligence ruins the reputation which accuracy had raised.",
+        "author": "Ben Jonson",
+        "genre": "success"
+    },
+    {
+        "quote": "I don't have any fear of intimacy, but rather thrive on it, which is rare in a public person.",
+        "author": "Jack Nicholson",
+        "genre": "fear"
+    },
+    {
+        "quote": "I like movies I can relate to.",
+        "author": "Kim Cattrall",
+        "genre": "movies"
+    },
+    {
+        "quote": "In my opinion, no single design is apt to be optimal for everyone.",
+        "author": "Donald Norman",
+        "genre": "design"
+    },
+    {
+        "quote": "The truth is that many people set rules to keep from making decisions.",
+        "author": "Mike Krzyzewski",
+        "genre": "truth"
+    },
+    {
+        "quote": "The best way to navigate through life is to give up all of our controls.",
+        "author": "Gerald Jampolsky",
+        "genre": "best"
+    },
+    {
+        "quote": "When did we begin to lose faith in our ability to effect change?",
+        "author": "Wynton Marsalis",
+        "genre": "faith"
+    },
+    {
+        "quote": "My family... always had the value of the family table and these cultural influences of growing up.",
+        "author": "Emeril Lagasse",
+        "genre": "family"
+    },
+    {
+        "quote": "On stage I make love to twenty five thousand people and then I go home alone.",
+        "author": "Janis Joplin",
+        "genre": "alone"
+    },
+    {
+        "quote": "Black as the devil, hot as hell, pure as an angel, sweet as love.",
+        "author": "Charles Maurice de Talleyrand",
+        "genre": "love"
+    },
+    {
+        "quote": "Poetry is the record of the best and happiest moments of the happiest and best minds.",
+        "author": "Percy Bysshe Shelley",
+        "genre": "best"
+    },
+    {
+        "quote": "Where all is but dream, reasoning and arguments are of no use, truth and knowledge nothing.",
+        "author": "John Locke",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "Legends die hard. They survive as truth rarely does.",
+        "author": "Helen Hayes",
+        "genre": "truth"
+    },
+    {
+        "quote": "In Los Angeles, by the time you're 35, you're older than most of the buildings.",
+        "author": "Delia Ephron",
+        "genre": "architecture"
+    },
+    {
+        "quote": "I've always wanted to be a mom.",
+        "author": "Holly Madison",
+        "genre": "mom"
+    },
+    {
+        "quote": "If you spend your life competing with business men, what do you have? A bank account and ulcers!",
+        "author": "Marilyn Monroe",
+        "genre": "life"
+    },
+    {
+        "quote": "The excitement of learning separates youth from old age. As long as you're learning you're not old.",
+        "author": "Rosalyn S. Yalow",
+        "genre": "age"
+    },
+    {
+        "quote": "Objects we ardently pursue bring little happiness when gained most of our pleasures come from unexpected sources.",
+        "author": "Herbert Spencer",
+        "genre": "happiness"
+    },
+    {
+        "quote": "The older I grow the more I distrust the familiar doctrine that age brings wisdom.",
+        "author": "H. L. Mencken",
+        "genre": "age"
+    },
+    {
+        "quote": "My nickname for my mom was 'The Compass.'",
+        "author": "Dane Cook",
+        "genre": "mom"
+    },
+    {
+        "quote": "Give a little love to a child, and you get a great deal back.",
+        "author": "John Ruskin",
+        "genre": "great"
+    },
+    {
+        "quote": "Government workers often get a bad rap, but it's rare for them to receive much appreciation when government works.",
+        "author": "Matthew Lesko",
+        "genre": "government"
+    },
+    {
+        "quote": "Friendship is the golden thread that ties the heart of all the world.",
+        "author": "John Evelyn",
+        "genre": "friendship"
+    },
+    {
+        "quote": "This is one of those cases in which the imagination is baffled by the facts.",
+        "author": "Adam Smith",
+        "genre": "imagination"
+    },
+    {
+        "quote": "Being alone is scarier than any boogey man and the reason why I don't choose to see Horror movies as a rule.",
+        "author": "Tom Sizemore",
+        "genre": "alone"
+    },
+    {
+        "quote": "Men was formed for society, and is neither capable of living alone, nor has the courage to do it.",
+        "author": "William Blackstone",
+        "genre": "alone"
+    },
+    {
+        "quote": "A work of art has no importance whatever to society. It is only important to the individual.",
+        "author": "Vladimir Nabokov",
+        "genre": "society"
+    },
+    {
+        "quote": "Comedy has to be based on truth. You take the truth and you put a little curlicue at the end.",
+        "author": "Sid Caesar",
+        "genre": "humor"
+    },
+    {
+        "quote": "We all labor against our own cure, for death is the cure of all diseases.",
+        "author": "Thomas Browne",
+        "genre": "death"
+    },
+    {
+        "quote": "A positive attitude can really make dreams come true - it did for me.",
+        "author": "David Bailey",
+        "genre": "dreams"
+    },
+    {
+        "quote": "Make big plans aim high in hope and work, remembering that a noble, logical diagram once recorded will not die.",
+        "author": "Daniel Burnham",
+        "genre": "architecture"
+    },
+    {
+        "quote": "Pennsylvania is a very tough state people don't last long in Pennsylvania politics.",
+        "author": "Arlen Specter",
+        "genre": "politics"
+    },
+    {
+        "quote": "The trouble with the future is that is usually arrives before we're ready for it.",
+        "author": "Arnold H. Glasow",
+        "genre": "future"
+    },
+    {
+        "quote": "You should also appreciate the goodness around you, and surround yourself with positive people.",
+        "author": "Nadia Comaneci",
+        "genre": "positive"
+    },
+    {
+        "quote": "Knowledge conquered by labor becomes a possession - a property entirely our own.",
+        "author": "Samuel Smiles",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "Crimes of which a people is ashamed constitute its real history. The same is true of man.",
+        "author": "Jean Genet",
+        "genre": "history"
+    },
+    {
+        "quote": "I dyed my hair blonde when I was 14. My mom was not happy. But I love being blonde.",
+        "author": "Rita Ora",
+        "genre": "mom"
+    },
+    {
+        "quote": "No amount of skillful invention can replace the essential element of imagination.",
+        "author": "Edward Hopper",
+        "genre": "imagination"
+    },
+    {
+        "quote": "I've always been asked, 'What is my favorite car?' and I've always said 'The next one.'",
+        "author": "Caroll Shelby",
+        "genre": "car"
+    },
+    {
+        "quote": "This morning in the Washington Post there was a statistic about how 85% of Americans are Christians.",
+        "author": "Sally Quinn",
+        "genre": "morning"
+    },
+    {
+        "quote": "When you are happy you can forgive a great deal.",
+        "author": "Princess Diana",
+        "genre": "great"
+    },
+    {
+        "quote": "I love European movies and I kind of grew up on European films.",
+        "author": "Jodie Foster",
+        "genre": "movies"
+    },
+    {
+        "quote": "In 1981, at age 31, I was voted the best player in basketball, and the most valuable player in the league.",
+        "author": "Julius Erving",
+        "genre": "age"
+    },
+    {
+        "quote": "It was a huge challenge to learn digital painting well enough so that computers don't pop into mind when one sees one.",
+        "author": "Berkeley Breathed",
+        "genre": "computers"
+    },
+    {
+        "quote": "Man lives for science as well as bread.",
+        "author": "William James",
+        "genre": "science"
+    },
+    {
+        "quote": "Movies about space raise those questions of what we're doing here, and that inevitably introduces a spiritual dimension.",
+        "author": "Danny Boyle",
+        "genre": "movies"
+    },
+    {
+        "quote": "Music is harmony, harmony is perfection, perfection is our dream, and our dream is heaven.",
+        "author": "Henri Frederic Amiel",
+        "genre": "music"
+    },
+    {
+        "quote": "I know it sounds corny, but when you follow your dreams, it happens. And if it's music, take it seriously.",
+        "author": "Enrique Iglesias",
+        "genre": "dreams"
+    },
+    {
+        "quote": "War is not an adventure. It is a disease. It is like typhus.",
+        "author": "Antoine de Saint-Exupery",
+        "genre": "war"
+    },
+    {
+        "quote": "In politics, an organized minority is a political majority.",
+        "author": "Jesse Jackson",
+        "genre": "politics"
+    },
+    {
+        "quote": "I love poking fun at myself. I have a rather mean sense of humor.",
+        "author": "Alton Brown",
+        "genre": "humor"
+    },
+    {
+        "quote": "It's always been a dream of mine to get somewhere and to have my mom and dad with me up there.",
+        "author": "Haley Reinhart",
+        "genre": "mom"
+    },
+    {
+        "quote": "Boy bands should be exploded from a great height. They're just pretty people singing music written by others.",
+        "author": "Eddie Izzard",
+        "genre": "music"
+    },
+    {
+        "quote": "Sunday school don't make you cool forever.",
+        "author": "Sly Stone",
+        "genre": "cool"
+    },
+    {
+        "quote": "A man's kiss is his signature.",
+        "author": "Mae West",
+        "genre": "men"
+    },
+    {
+        "quote": "My religion is based on truth and non-violence. Truth is my God. Non-violence is the means of realising Him.",
+        "author": "Mahatma Gandhi",
+        "genre": "religion"
+    },
+    {
+        "quote": "True friendship can afford true knowledge. It does not depend on darkness and ignorance.",
+        "author": "Henry David Thoreau",
+        "genre": "friendship"
+    },
+    {
+        "quote": "If there were dreams to sell, what would you buy?",
+        "author": "Thomas Lovell Beddoes",
+        "genre": "dreams"
+    },
+    {
+        "quote": "You can't fake it when you're alone with God, you know.",
+        "author": "Jim Bakker",
+        "genre": "alone"
+    },
+    {
+        "quote": "Take from the philosopher the pleasure of being heard and his desire for knowledge ceases.",
+        "author": "Jean-Jacques Rousseau",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "My mom and I have always had issues.",
+        "author": "Mindy McCready",
+        "genre": "mom"
+    },
+    {
+        "quote": "To expect alien technology to be just a few decades ahead of ours is too incredible to be taken seriously.",
+        "author": "Paul Davies",
+        "genre": "technology"
+    },
+    {
+        "quote": "Maybe it's our sins that give God consolation when he finally has to give us cancer.",
+        "author": "Chuck Palahniuk",
+        "genre": "god"
+    },
+    {
+        "quote": "Thank you, God, for this good life and forgive us if we do not love it enough.",
+        "author": "Garrison Keillor",
+        "genre": "life"
+    },
+    {
+        "quote": "The American formula for creating business is not to have the government create business.",
+        "author": "John Sununu",
+        "genre": "business"
+    },
+    {
+        "quote": "Fitness is not an option. It's part of my job.",
+        "author": "Alison Sweeney",
+        "genre": "fitness"
+    },
+    {
+        "quote": "The person attempting to travel two roads at once will get nowhere.",
+        "author": "Xun Zi",
+        "genre": "travel"
+    },
+    {
+        "quote": "Friendship! Mysterious cement of the soul, Sweet'ner of life, and solder of society.",
+        "author": "Robert Blair",
+        "genre": "friendship"
+    },
+    {
+        "quote": "I mean, I think about it, but I don't design my record to get a certain public response.",
+        "author": "Liz Phair",
+        "genre": "design"
+    },
+    {
+        "quote": "Nobody likes insurance companies, especially health insurance companies.",
+        "author": "P. J. O'Rourke",
+        "genre": "health"
+    },
+    {
+        "quote": "Getting information off the Internet is like taking a drink from a fire hydrant.",
+        "author": "Mitchell Kapor",
+        "genre": "technology"
+    },
+    {
+        "quote": "I'm thankful for serendipitous moments in my life, where things could've gone the other way.",
+        "author": "Rick Springfield",
+        "genre": "thankful"
+    },
+    {
+        "quote": "The care of human life and happiness, and not their destruction, is the first and only object of good government.",
+        "author": "Thomas Jefferson",
+        "genre": "good"
+    },
+    {
+        "quote": "Many intelligence reports in war are contradictory even more are false, and most are uncertain.",
+        "author": "Karl Von Clausewitz",
+        "genre": "war"
+    },
+    {
+        "quote": "I love scary movies. The Shining and Don't Look Now are two of the best.",
+        "author": "Famke Janssen",
+        "genre": "movies"
+    },
+    {
+        "quote": "I've been a fan of electronic music since the beginning.",
+        "author": "Jonathan Davis",
+        "genre": "music"
+    },
+    {
+        "quote": "The strength of a man's virtue should not be measured by his special exertions, but by his habitual acts.",
+        "author": "Blaise Pascal",
+        "genre": "strength"
+    },
+    {
+        "quote": "I love slow music.",
+        "author": "Norah Jones",
+        "genre": "music"
+    },
+    {
+        "quote": "Peace is purchased from strength. It's not purchased from weakness or unilateral retreats.",
+        "author": "Benjamin Netanyahu",
+        "genre": "peace"
+    },
+    {
+        "quote": "I look upon death to be as necessary to our constitution as sleep. We shall rise refreshed in the morning.",
+        "author": "Benjamin Franklin",
+        "genre": "morning"
+    },
+    {
+        "quote": "Hatred does not cease by hatred, but only by love this is the eternal rule.",
+        "author": "Buddha",
+        "genre": "love"
+    },
+    {
+        "quote": "We should measure welfare's success by how many people leave welfare, not by how many are added.",
+        "author": "Ronald Reagan",
+        "genre": "success"
+    },
+    {
+        "quote": "My dad saw my husband's boss at a conference, and he said to stop paying my husband until we produce children.",
+        "author": "Jenna Bush",
+        "genre": "dad"
+    },
+    {
+        "quote": "Trust me, I have never written a speech in my life, and if I have my way, I never will.",
+        "author": "Curt Schilling",
+        "genre": "trust"
+    },
+    {
+        "quote": "Religion has to stay in the heart, not in politics. It is private.",
+        "author": "Tahar Ben Jelloun",
+        "genre": "religion"
+    },
+    {
+        "quote": "Our whole constitutional heritage rebels at the thought of giving government the power to control men's minds.",
+        "author": "Thurgood Marshall",
+        "genre": "power"
+    },
+    {
+        "quote": "America's veterans deserve the very best health care because they've earned it.",
+        "author": "Jim Ramstad",
+        "genre": "health"
+    },
+    {
+        "quote": "God continues to work miracles in my life.",
+        "author": "Willie Aames",
+        "genre": "god"
+    },
+    {
+        "quote": "The less men think, the more they talk.",
+        "author": "Charles de Montesquieu",
+        "genre": "men"
+    },
+    {
+        "quote": "I have great faith that Heaven's there and I'll see my brothers and my mom and dad when I get there.",
+        "author": "Ernie Harwell",
+        "genre": "dad"
+    },
+    {
+        "quote": "Art washes away from the soul the dust of everyday life.",
+        "author": "Pablo Picasso",
+        "genre": "life"
+    },
+    {
+        "quote": "Music for me, it demands full concentration.",
+        "author": "Paulo Coelho",
+        "genre": "music"
+    },
+    {
+        "quote": "Failure is success if we learn from it.",
+        "author": "Malcolm Forbes",
+        "genre": "failure"
+    },
+    {
+        "quote": "Manifesting that order of poetry where we can at last grow up to that which we stored up as we grew.",
+        "author": "Seamus Heaney",
+        "genre": "poetry"
+    },
+    {
+        "quote": "Experience which was once claimed by the aged is now claimed exclusively by the young.",
+        "author": "Gilbert K. Chesterton",
+        "genre": "experience"
+    },
+    {
+        "quote": "Life loves to be taken by the lapel and told: 'I'm with you kid. Let's go.'",
+        "author": "Maya Angelou",
+        "genre": "life"
+    },
+    {
+        "quote": "Fear is the foundation of most governments.",
+        "author": "John Adams",
+        "genre": "fear"
+    },
+    {
+        "quote": "The beauty of a face is not a separate quality but a relation or proportion of qualities to each other.",
+        "author": "George H. Mead",
+        "genre": "beauty"
+    },
+    {
+        "quote": "I realize that protest paintings are not exactly in vogue, but I've done many.",
+        "author": "Robert Indiana",
+        "genre": "art"
+    },
+    {
+        "quote": "One of the reasons people stop learning is that they become less and less willing to risk failure.",
+        "author": "John W. Gardner",
+        "genre": "failure"
+    },
+    {
+        "quote": "Comrades, this man has a nice smile, but he's got iron teeth.",
+        "author": "Andrei A. Gromyko",
+        "genre": "smile"
+    },
+    {
+        "quote": "I hope when I'm dead I'll be considered an icon, though.",
+        "author": "Lady Gaga",
+        "genre": "hope"
+    },
+    {
+        "quote": "If I had no family, my wife and I would lead a much more romantic and nomadic existence.",
+        "author": "David McCallum",
+        "genre": "family"
+    },
+    {
+        "quote": "Unwearied ceaseless effort is the price that must be paid for turning faith into a rich infallible experience.",
+        "author": "Mahatma Gandhi",
+        "genre": "experience"
+    },
+    {
+        "quote": "I haven't paid for anything since I became famous.",
+        "author": "Melissa de la Cruz",
+        "genre": "famous"
+    },
+    {
+        "quote": "God did not intend religion to be an exercise club.",
+        "author": "Naguib Mahfouz",
+        "genre": "religion"
+    },
+    {
+        "quote": "Small minds are concerned with the extraordinary, great minds with the ordinary.",
+        "author": "Blaise Pascal",
+        "genre": "intelligence"
+    },
+    {
+        "quote": "There are some defeats more triumphant than victories.",
+        "author": "Michel de Montaigne",
+        "genre": "failure"
+    },
+    {
+        "quote": "Baseball is like driving, it's the one who gets home safely that counts.",
+        "author": "Tommy Lasorda",
+        "genre": "home"
+    },
+    {
+        "quote": "Please to put a nickel, please to put a dime. How petitions trickle in at Christmas time!",
+        "author": "Phyllis McGinley",
+        "genre": "christmas"
+    },
+    {
+        "quote": "Nothing endears so much a friend as sorrow for his death. The pleasure of his company has not so powerful an influence.",
+        "author": "David Hume",
+        "genre": "death"
+    },
+    {
+        "quote": "Celebrity means that I can affect people in a positive way.",
+        "author": "David Hasselhoff",
+        "genre": "positive"
+    },
+    {
+        "quote": "Take pride in your work at all times. Remember, respect for an umpire is created off the field as well as on.",
+        "author": "Ford Frick",
+        "genre": "respect"
+    },
+    {
+        "quote": "It is impossible, in our condition of Society, not to be sometimes a Snob.",
+        "author": "William Makepeace Thackeray",
+        "genre": "society"
+    },
+    {
+        "quote": "No not really, it is just like real life. Not everyday you are happy and not everyday you are sad.",
+        "author": "Dakota Fanning",
+        "genre": "sad"
+    },
+    {
+        "quote": "Where all is but dream, reasoning and arguments are of no use, truth and knowledge nothing.",
+        "author": "John Locke",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "Mediocre men work at their best men seeking excellence strive to do better.",
+        "author": "Edwin Louis Cole",
+        "genre": "best"
+    },
+    {
+        "quote": "Never feel remorse for what you have thought about your wife she has thought much worse things about you.",
+        "author": "Jean Rostand",
+        "genre": "marriage"
+    },
+    {
+        "quote": "Teaching is the royal road to learning.",
+        "author": "Jessamyn West",
+        "genre": "learning"
+    },
+    {
+        "quote": "For an Impressionist to paint from nature is not to paint the subject, but to realize sensations.",
+        "author": "Paul Cezanne",
+        "genre": "nature"
+    },
+    {
+        "quote": "As happy a man as any in the world, for the whole world seems to smile upon me!",
+        "author": "Samuel Pepys",
+        "genre": "smile"
+    },
+    {
+        "quote": "If winning isn't everything, why do they keep score?",
+        "author": "Vince Lombardi",
+        "genre": "sports"
+    },
+    {
+        "quote": "I'm not a romantic.",
+        "author": "Jack Kevorkian",
+        "genre": "romantic"
+    },
+    {
+        "quote": "I look for people who're passionate, dedicated to the text, and in whom I trust completely.",
+        "author": "Greta Scacchi",
+        "genre": "trust"
+    },
+    {
+        "quote": "Flirting is the gentle art of making a man feel pleased with himself.",
+        "author": "Helen Rowland",
+        "genre": "art"
+    },
+    {
+        "quote": "Politics, as the word is commonly understood, are nothing but corruptions.",
+        "author": "Jonathan Swift",
+        "genre": "politics"
+    },
+    {
+        "quote": "It's my experience that you really can't lose when you try the truth.",
+        "author": "Sharon Stone",
+        "genre": "experience"
+    },
+    {
+        "quote": "But sports carried me away from being in a gang, or being associated with drugs. Sports was my way out.",
+        "author": "LeBron James",
+        "genre": "sports"
+    },
+    {
+        "quote": "Forgiveness is a funny thing. It warms the heart and cools the sting.",
+        "author": "William Arthur Ward",
+        "genre": "funny"
+    },
+    {
+        "quote": "I have a strange relationship with time. I'm not aware of it passing.",
+        "author": "Daniel Day-Lewis",
+        "genre": "relationship"
+    },
+    {
+        "quote": "I'm not a strikingly handsome guy, but I'm in movies.",
+        "author": "Shia LaBeouf",
+        "genre": "movies"
+    },
+    {
+        "quote": "Marriage must incessantly contend with a monster that devours everything: familiarity.",
+        "author": "Honore de Balzac",
+        "genre": "marriage"
+    },
+    {
+        "quote": "Earthly wisdom is doing what comes naturally. Godly wisdom is doing what the Holy Spirit compels us to do.",
+        "author": "Charles Stanley",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "A James Cagney love scene is one where he lets the other guy live.",
+        "author": "Bob Hope",
+        "genre": "funny"
+    },
+    {
+        "quote": "If you must be mad, be it not for the things of the world. Be mad with the love of God.",
+        "author": "Ramakrishna",
+        "genre": "god"
+    },
+    {
+        "quote": "People drain me, even the closest of friends, and I find loneliness to be the best state in the union to live in.",
+        "author": "Margaret Cho",
+        "genre": "best"
+    },
+    {
+        "quote": "Truth is the glue that holds government together.",
+        "author": "Gerald R. Ford",
+        "genre": "government"
+    },
+    {
+        "quote": "So there's no such thing as work-life balance. There's work, and there's life, and there's no balance.",
+        "author": "Sheryl Sandberg",
+        "genre": "work"
+    },
+    {
+        "quote": "I love to make music and stay grounded.",
+        "author": "Annie Lennox",
+        "genre": "music"
+    },
+    {
+        "quote": "Science and literature give me answers. And they ask me questions I will never be able to answer.",
+        "author": "Mark Haddon",
+        "genre": "science"
+    },
+    {
+        "quote": "I guess I watch movies to make myself happier a lot.",
+        "author": "Mike Mills",
+        "genre": "movies"
+    },
+    {
+        "quote": "I'm not buddy-buddy with the players. If they need a buddy, let them buy a dog.",
+        "author": "Whitey Herzog",
+        "genre": "sports"
+    },
+    {
+        "quote": "I saw Tequila Sunrise as a romantic picture with complex, bigger than life characters.",
+        "author": "Conrad Hall",
+        "genre": "romantic"
+    },
+    {
+        "quote": "I'm a just a mom when I walk down the street.",
+        "author": "Alice Barrett",
+        "genre": "mom"
+    },
+    {
+        "quote": "Nah, I don't watch TV either, apart from a few sports programmes. I just don't have the time.",
+        "author": "Eric Bristow",
+        "genre": "sports"
+    },
+    {
+        "quote": "All God does is watch us and kill us when we get boring. We must never, ever be boring.",
+        "author": "Chuck Palahniuk",
+        "genre": "god"
+    },
+    {
+        "quote": "I was raised on comic books, and I love science fiction.",
+        "author": "Mayim Bialik",
+        "genre": "science"
+    },
+    {
+        "quote": "More students have a better knowledge of pop culture than of the Constitution.",
+        "author": "Charles Bowen",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "One of the lessons of history is that nothing is often a good thing to do and always a clever thing to say.",
+        "author": "Will Durant",
+        "genre": "history"
+    },
+    {
+        "quote": "We went to church every Sunday. When I was a kid, the only time I sang was around my family.",
+        "author": "Darius Rucker",
+        "genre": "family"
+    },
+    {
+        "quote": "Flatter not thyself in thy faith in God if thou hast not charity for thy neighbor.",
+        "author": "Francis Quarles",
+        "genre": "faith"
+    },
+    {
+        "quote": "The great man is he who does not lose his child's-heart.",
+        "author": "Mencius",
+        "genre": "great"
+    },
+    {
+        "quote": "I don't want to die as long as I can work the minute I can not, I want to go.",
+        "author": "Susan B. Anthony",
+        "genre": "work"
+    },
+    {
+        "quote": "The love of family and the admiration of friends is much more important than wealth and privilege.",
+        "author": "Charles Kuralt",
+        "genre": "love"
+    },
+    {
+        "quote": "Man becomes great exactly in the degree in which he works for the welfare of his fellow-men.",
+        "author": "Mahatma Gandhi",
+        "genre": "great"
+    },
+    {
+        "quote": "I had never been able to get a car that said how much I cared about the environment until I drove electric.",
+        "author": "Alexandra Paul",
+        "genre": "car"
+    },
+    {
+        "quote": "There can be hope only for a society which acts as one big family, not as many separate ones.",
+        "author": "Anwar Sadat",
+        "genre": "society"
+    },
+    {
+        "quote": "I like messing around, and I like working with artists who I respect.",
+        "author": "Shia LaBeouf",
+        "genre": "respect"
+    },
+    {
+        "quote": "Science is but an image of the truth.",
+        "author": "Francis Bacon",
+        "genre": "science"
+    },
+    {
+        "quote": "Fear makes strangers of people who would be friends.",
+        "author": "Shirley MacLaine",
+        "genre": "friendship"
+    },
+    {
+        "quote": "Dream no small dreams for they have no power to move the hearts of men.",
+        "author": "Johann Wolfgang von Goethe",
+        "genre": "men"
+    },
+    {
+        "quote": "Rare as is true love, true friendship is rarer.",
+        "author": "Jean de La Fontaine",
+        "genre": "love"
+    },
+    {
+        "quote": "It is not enough to have a good mind the main thing is to use it well.",
+        "author": "Rene Descartes",
+        "genre": "good"
+    },
+    {
+        "quote": "I didn't come into politics to change the Labour Party. I came into politics to change the country.",
+        "author": "Tony Blair",
+        "genre": "change"
+    },
+    {
+        "quote": "War is like love it always finds a way.",
+        "author": "Bertolt Brecht",
+        "genre": "war"
+    },
+    {
+        "quote": "A family is a unit composed not only of children but of men, women, an occasional animal, and the common cold.",
+        "author": "Ogden Nash",
+        "genre": "men"
+    },
+    {
+        "quote": "I want to own an NFL franchise. I understand the business of football.",
+        "author": "Jon Bon Jovi",
+        "genre": "business"
+    },
+    {
+        "quote": "Hamlet is an astonishing intelligence.",
+        "author": "Ben Kingsley",
+        "genre": "intelligence"
+    },
+    {
+        "quote": "All religion, my friend, is simply evolved out of fraud, fear, greed, imagination, and poetry.",
+        "author": "Edgar Allan Poe",
+        "genre": "religion"
+    },
+    {
+        "quote": "I was not looking for my dreams to interpret my life, but rather for my life to interpret my dreams.",
+        "author": "Susan Sontag",
+        "genre": "dreams"
+    },
+    {
+        "quote": "What is man's ultimate direction in life? It is to look for love, truth, virtue, and beauty.",
+        "author": "Shinichi Suzuki",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "The Universe is one great kindergarten for man. Everything that exists has brought with it its own peculiar lesson.",
+        "author": "Orison Swett Marden",
+        "genre": "great"
+    },
+    {
+        "quote": "I don't eat junk foods and I don't think junk thoughts.",
+        "author": "Peace Pilgrim",
+        "genre": "diet"
+    },
+    {
+        "quote": "Whatever dreams I have wished have come true.",
+        "author": "Annette Funicello",
+        "genre": "dreams"
+    },
+    {
+        "quote": "I travel a lot I hate having my life disrupted by routine.",
+        "author": "Caskie Stinnett",
+        "genre": "travel"
+    },
+    {
+        "quote": "I grew up in a Ukrainian Catholic-turned-Christian household, and that is my family's faith.",
+        "author": "Vera Farmiga",
+        "genre": "family"
+    },
+    {
+        "quote": "To say 'I love you' one must first be able to say the 'I.'",
+        "author": "Ayn Rand",
+        "genre": "love"
+    },
+    {
+        "quote": "James Cagney, Steve McQueen, I loved all those guys. I grew up loving the movies but had no desire to be in them.",
+        "author": "Mark Wahlberg",
+        "genre": "movies"
+    },
+    {
+        "quote": "I believe fundamental honesty is the keystone of business.",
+        "author": "Harvey S. Firestone",
+        "genre": "business"
+    },
+    {
+        "quote": "Be true to your work, your word, and your friend.",
+        "author": "Henry David Thoreau",
+        "genre": "friendship"
+    },
+    {
+        "quote": "You don't have to have an attitude if you're famous.",
+        "author": "Adriana Lima",
+        "genre": "famous"
+    },
+    {
+        "quote": "In this life and death case, I felt Mrs. Schiavo should receive the fullest due process from our legal system.",
+        "author": "Paul Gillmor",
+        "genre": "legal"
+    },
+    {
+        "quote": "The terrorist uses surprise and stealth, and the only way to defeat that is by having accurate and timely intelligence.",
+        "author": "Bill Nelson",
+        "genre": "intelligence"
+    },
+    {
+        "quote": "One does not leave a convivial party before closing time.",
+        "author": "Winston Churchill",
+        "genre": "time"
+    },
+    {
+        "quote": "It is true greatness to have in one the frailty of a man and the security of a god.",
+        "author": "Lucius Annaeus Seneca",
+        "genre": "god"
+    },
+    {
+        "quote": "Millions saw the apple fall, but Newton was the one who asked why.",
+        "author": "Bernard Baruch",
+        "genre": "leadership"
+    },
+    {
+        "quote": "I'm not looking to lose anything. I'm looking to continue making movies.",
+        "author": "Johnny Knoxville",
+        "genre": "movies"
+    },
+    {
+        "quote": "Before marriage, a girl has to make love to a man to hold him. After marriage, she has to hold him to make love to him.",
+        "author": "Marilyn Monroe",
+        "genre": "marriage"
+    },
+    {
+        "quote": "Marriage has historically been in the domain of the States to regulate.",
+        "author": "Corrine Brown",
+        "genre": "marriage"
+    },
+    {
+        "quote": "When the audience leaves, I'd like them to feel positive when they go.",
+        "author": "Juice Newton",
+        "genre": "positive"
+    },
+    {
+        "quote": "We make out of the quarrel with others, rhetoric, but of the quarrel with ourselves, poetry.",
+        "author": "William Butler Yeats",
+        "genre": "poetry"
+    },
+    {
+        "quote": "We can and must move U.S. politics forward by means of committed participation.",
+        "author": "Paul Wellstone",
+        "genre": "politics"
+    },
+    {
+        "quote": "Prepare for the unknown by studying how others in the past have coped with the unforeseeable and the unpredictable.",
+        "author": "George S. Patton",
+        "genre": "learning"
+    },
+    {
+        "quote": "Mail your packages early so the post office can lose them in time for Christmas.",
+        "author": "Johnny Carson",
+        "genre": "christmas"
+    },
+    {
+        "quote": "It takes an extraordinary intelligence to contemplate the obvious.",
+        "author": "Alfred North Whitehead",
+        "genre": "intelligence"
+    },
+    {
+        "quote": "Women think with their whole bodies and they see things as a whole more than men do.",
+        "author": "Dorothy Day",
+        "genre": "men"
+    },
+    {
+        "quote": "Funny is funny.",
+        "author": "Don Rickles",
+        "genre": "funny"
+    },
+    {
+        "quote": "One of the first conditions of happiness is that the link between Man and Nature shall not be broken.",
+        "author": "Leo Tolstoy",
+        "genre": "nature"
+    },
+    {
+        "quote": "By definition, a government has no conscience. Sometimes it has a policy, but nothing more.",
+        "author": "Albert Camus",
+        "genre": "government"
+    },
+    {
+        "quote": "A good decision is based on knowledge and not on numbers.",
+        "author": "Plato",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "I don't think you can question your instinct you should always trust it.",
+        "author": "Andrea Arnold",
+        "genre": "trust"
+    },
+    {
+        "quote": "God cannot alter the past, though historians can.",
+        "author": "Samuel Butler",
+        "genre": "history"
+    },
+    {
+        "quote": "Perhaps it would be better for science, that all criticism should be avowed.",
+        "author": "Charles Babbage",
+        "genre": "science"
+    },
+    {
+        "quote": "If architecture is frozen music then music must be liquid architecture.",
+        "author": "Quincy Jones",
+        "genre": "music"
+    },
+    {
+        "quote": "The man who has done his level best... is a success, even though the world may write him down a failure.",
+        "author": "B. C. Forbes",
+        "genre": "success"
+    },
+    {
+        "quote": "Just like my father, I've always loved education. In school I was a member of the honor society.",
+        "author": "Barbra Streisand",
+        "genre": "society"
+    },
+    {
+        "quote": "Effective health care depends on self-care this fact is currently heralded as if it were a discovery.",
+        "author": "Ivan Illich",
+        "genre": "health"
+    },
+    {
+        "quote": "There is no love without forgiveness, and there is no forgiveness without love.",
+        "author": "Bryant H. McGill",
+        "genre": "forgiveness"
+    },
+    {
+        "quote": "Leaders must invoke an alchemy of great vision.",
+        "author": "Henry A. Kissinger",
+        "genre": "great"
+    },
+    {
+        "quote": "What men value in this world is not rights but privileges.",
+        "author": "H. L. Mencken",
+        "genre": "men"
+    },
+    {
+        "quote": "They that have lived a single day have lived an age.",
+        "author": "Jean de la Bruyere",
+        "genre": "age"
+    },
+    {
+        "quote": "A world technology means either a world government or world suicide.",
+        "author": "Max Lerner",
+        "genre": "technology"
+    },
+    {
+        "quote": "I'm involved in the stock market, which is fun and, sometimes, very painful.",
+        "author": "Regis Philbin",
+        "genre": "finance"
+    },
+    {
+        "quote": "Henceforth the leaves of the tree of knowledge were for women, and for the healing of the nations.",
+        "author": "Lucy Stone",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "The internet could be a very positive step towards education, organisation and participation in a meaningful society.",
+        "author": "Noam Chomsky",
+        "genre": "society"
+    },
+    {
+        "quote": "We should feel sorrow, but not sink under its oppression.",
+        "author": "Confucius",
+        "genre": "sympathy"
+    },
+    {
+        "quote": "Truth is handsomer than the affectation of love. Your goodness must have some edge to it, else it is none.",
+        "author": "Ralph Waldo Emerson",
+        "genre": "love"
+    },
+    {
+        "quote": "We die only once, and for such a long time.",
+        "author": "Moliere",
+        "genre": "time"
+    },
+    {
+        "quote": "I was a sports fan, but I also went to peace marches.",
+        "author": "Tim Robbins",
+        "genre": "sports"
+    },
+    {
+        "quote": "I don't like being in houses alone.",
+        "author": "Martin Scorsese",
+        "genre": "alone"
+    },
+    {
+        "quote": "Even when I'm in quite a happy state of mind, I like writing really sad songs. I think a lot of people do.",
+        "author": "Ellie Goulding",
+        "genre": "sad"
+    },
+    {
+        "quote": "Tears are often the telescope by which men see far into heaven.",
+        "author": "Henry Ward Beecher",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "Let's not be afraid to speak the common sense truth: you can't have high standards without good discipline.",
+        "author": "William Hague",
+        "genre": "good"
+    },
+    {
+        "quote": "The future is something which everyone reaches at the rate of 60 minutes an hour, whatever he does, whoever he is.",
+        "author": "C. S. Lewis",
+        "genre": "future"
+    },
+    {
+        "quote": "I've got no respect for any young man who won't join the colors.",
+        "author": "Nathan Bedford Forrest",
+        "genre": "respect"
+    },
+    {
+        "quote": "Doctors will have more lives to answer for in the next world than even we generals.",
+        "author": "Napoleon Bonaparte",
+        "genre": "medical"
+    }
+]
